@@ -14,6 +14,7 @@ This repository publishes real, bookable freight rate guides for major shipping 
 | Route | Mode | Latest Rate | Updated |
 |-------|------|-------------|---------|
 | [Shenzhen to Manzanillo, Mexico](./guides/shenzhen-to-manzanillo-fcl-guide.md) | FCL | USD 5,620 – 5,660 per container | Aug 16, 2026 |
+| [China Freight Rate Update — Aug 16, 2026 (LATAM, Middle East, Europe)](./guides/china-freight-rate-update-august-16-2026.md) | FCL + LCL | USD 5,620 – 7,180 FCL; USD 34 – 182 LCL | Aug 16, 2026 |
 
 ## Why This Format
 
