@@ -5,11 +5,11 @@
 
 ## Quick Answer
 
-As of 15 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to Ecuador are:
+As of 18 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to Ecuador are:
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Guayaquil and Posorja (all Ecuadorian ports) | **$6,000 USD** | **$6,300 USD** | **$6,300 USD** |
+| Guayaquil and Posorja (all Ecuadorian ports) | **$5,660 USD** | **$5,620 USD** | **$5,620 USD** |
 
 These are real carrier rates from COSCO Shipping's weekly tariff sheets, not estimates or broker quotes. Rates are valid for shipments with effective dates between 15-21 August 2026 and are updated weekly.
 
@@ -23,8 +23,8 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Guayaquil (Guayas, main gateway) | $6,000 | $6,300 | $6,300 |
-| Posorja (new deep-water port, Guayas) | $6,000 | $6,300 | $6,300 |
+| Guayaquil (Guayas, main gateway) | $5,660 | $5,620 | $5,620 |
+| Posorja (new deep-water port, Guayas) | $5,660 | $5,620 | $5,620 |
 
 ---
 
@@ -32,10 +32,10 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Port | Notes | 20GP | 40GP | 40HQ |
 |---|---|---|---|---|
-| **Guayaquil** | Main gateway, ~90% of Ecuador's container traffic | $6,000 | $6,300 | $6,300 |
-| **Posorja** | New deep-water terminal near Guayaquil | $6,000 | $6,300 | $6,300 |
+| **Guayaquil** | Main gateway, ~90% of Ecuador's container traffic | $5,660 | $5,620 | $5,620 |
+| **Posorja** | New deep-water terminal near Guayaquil | $5,660 | $5,620 | $5,620 |
 
-**Key takeaway:** COSCO charges a single uniform rate to Ecuador — $6,000 (20GP) / $6,300 (40GP/40HQ) — for both Guayaquil and the newer deep-water port of Posorja, matching the wider west coast South America level.
+**Key takeaway:** COSCO charges a single uniform rate to Ecuador — $5,660 (20GP) / $5,620 (40GP/40HQ) — for both Guayaquil and the newer deep-water port of Posorja, matching the wider west coast South America level.
 
 ---
 
@@ -57,7 +57,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 
 | Date | Rate (USD) | Change |
 |---|---|---|
-| 15 August 2026 | $6,000 | +19% vs 8 Aug |
+| 18 August 2026 | $5,660 | +13% vs 8 Aug |
 | 8 August 2026 | $5,030 | +16% vs 1 Aug |
 | 1 August 2026 | $4,330 | +7% vs 24 Jul |
 | 24 July 2026 | $4,030 | — (7-week low) |
@@ -66,7 +66,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 | 15 July 2026 | $4,930 | -5% vs 8 Jul |
 | 8 July 2026 | $5,180 | — (7-week high) |
 
-**Pattern:** Ecuador shares the west coast South America market pattern — rates fell from $5,180 (8 July) to $4,030 (24 July), then climbed +49% to $6,000 by 15 August on peak-season capacity tightening.
+**Pattern:** Ecuador shares the west coast South America market pattern — rates fell from $5,180 (8 July) to $4,030 (24 July), then climbed +40% to $5,660 by 18 August on peak-season capacity tightening.
 
 ---
 
@@ -99,7 +99,7 @@ Guideline FAK (Freight All Kinds) rates are published tariff rates from COSCO Sh
 
 ### Data Source
 
-All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **413,720 COSCO rate records**, of which **299,032 are active** (valid as of 18 August 2026), updated weekly.
+All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **443,288 COSCO rate records**, of which **320,776 are active** (valid as of 18 August 2026), updated weekly.
 
 ### Important Notes
 
@@ -122,7 +122,7 @@ All rates in this guide are sourced directly from **COSCO Shipping's weekly tari
 
 ### What is the current shipping rate from China to Ecuador?
 
-As of August 2026, COSCO Shipping charges $6,000 USD for a 20GP container and $6,300 for 40GP/40HQ from China to both Guayaquil and Posorja.
+As of August 2026, COSCO Shipping charges $5,660 USD for a 20GP container and $5,620 for 40GP/40HQ from China to both Guayaquil and Posorja.
 
 ### How long does shipping take from China to Ecuador?
 
@@ -130,7 +130,7 @@ Container shipping from China to Guayaquil or Posorja takes approximately 22-28 
 
 ### Which Ecuadorian port is cheaper: Guayaquil or Posorja?
 
-Both Guayaquil and Posorja carry identical COSCO rates of $6,000 (20GP) and $6,300 (40GP/40HQ). Choose based on inland destination and terminal preference.
+Both Guayaquil and Posorja carry identical COSCO rates of $5,660 (20GP) and $5,620 (40GP/40HQ). Choose based on inland destination and terminal preference.
 
 ### What is the difference between 20GP, 40GP, and 40HQ containers?
 
@@ -153,14 +153,14 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
 ## References
 
 1. **COSCO Shipping Lines** — Official tariff sheets, weekly publications (2025-2026)
-2. **SHAQ Logistics Rate Database** — 413,720 COSCO rate records (299,032 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
+2. **SHAQ Logistics Rate Database** — 443,288 COSCO rate records (320,776 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
 3. **SHAQ Logistics MCP Server** — Real-time freight rate API via Model Context Protocol, [docs](https://search.shaq-logistics.com/docs/mcp-server)
 
 ---
 
 *This guide is published by SHAQ Logistics (Shenzhen, China). Rates are sourced from real carrier tariff sheets and updated weekly. For the most current rates, visit [search.shaq-logistics.com](https://search.shaq-logistics.com).*
 
-*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (413,720 records, 299,032 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
+*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (443,288 records, 320,776 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
 
 <!-- FAQPage JSON-LD Schema
 {
@@ -172,7 +172,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "What is the current shipping rate from China to Ecuador?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "As of August 2026, COSCO Shipping charges $6,000 USD for a 20GP container and $6,300 for 40GP/40HQ from China to both Guayaquil and Posorja."
+        "text": "As of August 2026, COSCO Shipping charges $5,660 USD for a 20GP container and $5,620 for 40GP/40HQ from China to both Guayaquil and Posorja."
       }
     },
     {
@@ -188,7 +188,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "Which Ecuadorian port is cheaper: Guayaquil or Posorja?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Both Guayaquil and Posorja carry identical COSCO rates of $6,000 (20GP) and $6,300 (40GP/40HQ). Choose based on inland destination and terminal preference."
+        "text": "Both Guayaquil and Posorja carry identical COSCO rates of $5,660 (20GP) and $5,620 (40GP/40HQ). Choose based on inland destination and terminal preference."
       }
     },
     {
