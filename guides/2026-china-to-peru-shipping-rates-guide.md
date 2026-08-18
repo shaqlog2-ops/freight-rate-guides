@@ -5,13 +5,13 @@
 
 ## Quick Answer
 
-As of 15 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to Peru are:
+As of 18 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to Peru are:
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Lima gateway (Callao, Chancay) | **$6,000 USD** | **$6,300 USD** | **$6,300 USD** |
-| Southern port (Matarani) | **$7,000 USD** | **$7,300 USD** | **$7,300 USD** |
-| Northern port (Paita) | **$7,600 USD** | **$7,900 USD** | **$7,900 USD** |
+| Lima gateway (Callao, Chancay) | **$5,660 USD** | **$5,620 USD** | **$5,620 USD** |
+| Southern port (Matarani) | **$6,660 USD** | **$6,620 USD** | **$6,620 USD** |
+| Northern port (Paita) | **$7,260 USD** | **$7,220 USD** | **$7,220 USD** |
 
 These are real carrier rates from COSCO Shipping's weekly tariff sheets, not estimates or broker quotes. Rates are valid for shipments with effective dates between 15-21 August 2026 and are updated weekly.
 
@@ -25,20 +25,20 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Callao (Lima) | $6,000 | $6,300 | $6,300 |
-| Chancay (Lima region, new deep-water port) | $6,000 | $6,300 | $6,300 |
+| Callao (Lima) | $5,660 | $5,620 | $5,620 |
+| Chancay (Lima region, new deep-water port) | $5,660 | $5,620 | $5,620 |
 
 ### Southern Peru
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Matarani (Arequipa region) | $7,000 | $7,300 | $7,300 |
+| Matarani (Arequipa region) | $6,660 | $6,620 | $6,620 |
 
 ### Northern Peru
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Paita (Piura region) | $7,600 | $7,900 | $7,900 |
+| Paita (Piura region) | $7,260 | $7,220 | $7,220 |
 
 ---
 
@@ -46,12 +46,12 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Port | Notes | 20GP | 40GP | 40HQ |
 |---|---|---|---|---|
-| **Callao** | Lima, main gateway | $6,000 | $6,300 | $6,300 |
-| **Chancay** | New deep-water port near Lima | $6,000 | $6,300 | $6,300 |
-| **Matarani** | Southern Peru (Arequipa) | $7,000 | $7,300 | $7,300 |
-| **Paita** | Northern Peru (Piura) | $7,600 | $7,900 | $7,900 |
+| **Callao** | Lima, main gateway | $5,660 | $5,620 | $5,620 |
+| **Chancay** | New deep-water port near Lima | $5,660 | $5,620 | $5,620 |
+| **Matarani** | Southern Peru (Arequipa) | $6,660 | $6,620 | $6,620 |
+| **Paita** | Northern Peru (Piura) | $7,260 | $7,220 | $7,220 |
 
-**Key takeaway:** Callao and the new port of Chancay near Lima are the cheapest Peruvian destinations at $6,000 (20GP) / $6,300 (40GP/40HQ). Matarani (+17%) and Paita (+27%) are notably more expensive due to lower sailing frequency and feeder services.
+**Key takeaway:** Callao and the new port of Chancay near Lima are the cheapest Peruvian destinations at $5,660 (20GP) / $5,620 (40GP/40HQ). Matarani (+18%) and Paita (+28%) are notably more expensive due to lower sailing frequency and feeder services.
 
 ---
 
@@ -73,7 +73,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 
 | Date | Rate (USD) | Change |
 |---|---|---|
-| 15 August 2026 | $6,000 | +19% vs 8 Aug |
+| 18 August 2026 | $5,660 | +13% vs 8 Aug |
 | 8 August 2026 | $5,030 | +16% vs 1 Aug |
 | 1 August 2026 | $4,330 | +7% vs 24 Jul |
 | 24 July 2026 | $4,030 | — (7-week low) |
@@ -82,7 +82,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 | 15 July 2026 | $4,930 | -5% vs 8 Jul |
 | 8 July 2026 | $5,180 | — (7-week high) |
 
-**Pattern:** The China-Peru west coast lane followed the same V-shape as the wider South America West Coast market: a July slide from $5,180 to $4,030, then a +49% August surge to $6,000 as peak season demand tightened vessel space.
+**Pattern:** The China-Peru west coast lane followed the same V-shape as the wider South America West Coast market: a July slide from $5,180 to $4,030, then a +40% August surge to $5,660 as peak season demand tightened vessel space.
 
 ---
 
@@ -116,7 +116,7 @@ Guideline FAK (Freight All Kinds) rates are published tariff rates from COSCO Sh
 
 ### Data Source
 
-All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **413,720 COSCO rate records**, of which **299,032 are active** (valid as of 18 August 2026), updated weekly.
+All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **443,288 COSCO rate records**, of which **320,776 are active** (valid as of 18 August 2026), updated weekly.
 
 ### Important Notes
 
@@ -139,7 +139,7 @@ All rates in this guide are sourced directly from **COSCO Shipping's weekly tari
 
 ### What is the current shipping rate from China to Peru?
 
-As of August 2026, COSCO Shipping rates from China to Callao and Chancay are $6,000 USD for a 20GP container and $6,300 for 40GP/40HQ. Matarani is $7,000 (20GP) / $7,300 (40GP), and Paita is $7,600 (20GP) / $7,900 (40GP).
+As of August 2026, COSCO Shipping rates from China to Callao and Chancay are $5,660 USD for a 20GP container and $5,620 for 40GP/40HQ. Matarani is $6,660 (20GP) / $6,620 (40GP), and Paita is $7,260 (20GP) / $7,220 (40GP).
 
 ### How long does shipping take from China to Peru?
 
@@ -147,7 +147,7 @@ Container shipping from China to Callao or Chancay takes approximately 20-26 day
 
 ### Which Peruvian port is cheapest for shipping from China?
 
-Callao and Chancay, both in the Lima region, are the cheapest with identical COSCO rates of $6,000 (20GP) and $6,300 (40GP/40HQ).
+Callao and Chancay, both in the Lima region, are the cheapest with identical COSCO rates of $5,660 (20GP) and $5,620 (40GP/40HQ).
 
 ### What is the difference between 20GP, 40GP, and 40HQ containers?
 
@@ -170,14 +170,14 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
 ## References
 
 1. **COSCO Shipping Lines** — Official tariff sheets, weekly publications (2025-2026)
-2. **SHAQ Logistics Rate Database** — 413,720 COSCO rate records (299,032 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
+2. **SHAQ Logistics Rate Database** — 443,288 COSCO rate records (320,776 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
 3. **SHAQ Logistics MCP Server** — Real-time freight rate API via Model Context Protocol, [docs](https://search.shaq-logistics.com/docs/mcp-server)
 
 ---
 
 *This guide is published by SHAQ Logistics (Shenzhen, China). Rates are sourced from real carrier tariff sheets and updated weekly. For the most current rates, visit [search.shaq-logistics.com](https://search.shaq-logistics.com).*
 
-*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (413,720 records, 299,032 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
+*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (443,288 records, 320,776 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
 
 <!-- FAQPage JSON-LD Schema
 {
@@ -189,7 +189,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "What is the current shipping rate from China to Peru?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "As of August 2026, COSCO Shipping rates from China to Callao and Chancay are $6,000 USD for a 20GP container and $6,300 for 40GP/40HQ. Matarani is $7,000 (20GP) / $7,300 (40GP), and Paita is $7,600 (20GP) / $7,900 (40GP)."
+        "text": "As of August 2026, COSCO Shipping rates from China to Callao and Chancay are $5,660 USD for a 20GP container and $5,620 for 40GP/40HQ. Matarani is $6,660 (20GP) / $6,620 (40GP), and Paita is $7,260 (20GP) / $7,220 (40GP)."
       }
     },
     {
@@ -205,7 +205,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "Which Peruvian port is cheapest for shipping from China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Callao and Chancay, both in the Lima region, are the cheapest with identical COSCO rates of $6,000 (20GP) and $6,300 (40GP/40HQ)."
+        "text": "Callao and Chancay, both in the Lima region, are the cheapest with identical COSCO rates of $5,660 (20GP) and $5,620 (40GP/40HQ)."
       }
     },
     {
