@@ -5,16 +5,16 @@
 
 ## Quick Answer
 
-As of 15 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to Caribbean destinations are:
+As of 18 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to Caribbean destinations are:
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Kingston (Jamaica) | **$7,600 USD** | **$7,700 USD** | **— USD** |
-| Port of Spain (Trinidad & Tobago) | **$7,800 USD** | **$7,900 USD** | **— USD** |
-| Port-au-Prince (Haiti) | **$8,100 USD** | **$8,200 USD** | **— USD** |
-| Rio Haina (Dominican Republic) / San Juan (Puerto Rico) | **$8,500 USD** | **$8,600 USD** | **— USD** |
-| Paramaribo (Suriname) | **$9,400 USD** | **$9,500 USD** | **— USD** |
-| Georgetown (Guyana) | **$9,600 USD** | **$9,700 USD** | **— USD** |
+| Kingston (Jamaica) | **$7,180 USD** | **$6,860 USD** | **— USD** |
+| Port of Spain (Trinidad & Tobago) | **$7,380 USD** | **$7,060 USD** | **— USD** |
+| Port-au-Prince (Haiti) | **$7,680 USD** | **$7,360 USD** | **— USD** |
+| Rio Haina (Dominican Republic) / San Juan (Puerto Rico) | **$8,080 USD** | **$7,760 USD** | **— USD** |
+| Paramaribo (Suriname) | **$8,980 USD** | **$8,660 USD** | **— USD** |
+| Georgetown (Guyana) | **$9,180 USD** | **$8,860 USD** | **— USD** |
 
 These are real carrier rates from COSCO Shipping's weekly tariff sheets, not estimates or broker quotes. Rates are valid for shipments with effective dates between 15-21 August 2026 and are updated weekly.
 
@@ -28,23 +28,23 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Kingston (Jamaica) | $7,600 | $7,700 | — |
-| Port of Spain (Trinidad & Tobago) | $7,800 | $7,900 | — |
-| Port-au-Prince (Haiti) | $8,100 | $8,200 | — |
+| Kingston (Jamaica) | $7,180 | $6,860 | — |
+| Port of Spain (Trinidad & Tobago) | $7,380 | $7,060 | — |
+| Port-au-Prince (Haiti) | $7,680 | $7,360 | — |
 
 ### Hispaniola and Puerto Rico
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Rio Haina (Dominican Republic) | $8,500 | $8,600 | — |
-| San Juan (Puerto Rico) | $8,500 | $8,600 | — |
+| Rio Haina (Dominican Republic) | $8,080 | $7,760 | — |
+| San Juan (Puerto Rico) | $8,080 | $7,760 | — |
 
 ### South America's Caribbean coast (Guianas)
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Paramaribo (Suriname) | $9,400 | $9,500 | — |
-| Georgetown (Guyana) | $9,600 | $9,700 | — |
+| Paramaribo (Suriname) | $8,980 | $8,660 | — |
+| Georgetown (Guyana) | $9,180 | $8,860 | — |
 
 ---
 
@@ -52,15 +52,15 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Port | Notes | 20GP | 40GP | 40HQ |
 |---|---|---|---|---|
-| **Kingston** | Jamaica — transshipment hub | $7,600 | $7,700 | — |
-| **Port of Spain** | Trinidad & Tobago | $7,800 | $7,900 | — |
-| **Port-au-Prince** | Haiti | $8,100 | $8,200 | — |
-| **Rio Haina** | Dominican Republic | $8,500 | $8,600 | — |
-| **San Juan** | Puerto Rico | $8,500 | $8,600 | — |
-| **Paramaribo** | Suriname | $9,400 | $9,500 | — |
-| **Georgetown** | Guyana | $9,600 | $9,700 | — |
+| **Kingston** | Jamaica — transshipment hub | $7,180 | $6,860 | — |
+| **Port of Spain** | Trinidad & Tobago | $7,380 | $7,060 | — |
+| **Port-au-Prince** | Haiti | $7,680 | $7,360 | — |
+| **Rio Haina** | Dominican Republic | $8,080 | $7,760 | — |
+| **San Juan** | Puerto Rico | $8,080 | $7,760 | — |
+| **Paramaribo** | Suriname | $8,980 | $8,660 | — |
+| **Georgetown** | Guyana | $9,180 | $8,860 | — |
 
-**Key takeaway:** Caribbean rates spread widely from $7,600 (Kingston) to $9,700 (Georgetown). The Guianas (Suriname, Guyana) are 23-26% more expensive than Jamaica due to low call frequency. 40HQ is not offered on any Caribbean route in the current tariff.
+**Key takeaway:** Caribbean rates spread widely from $7,180 (Kingston) to $8,860 (Georgetown). The Guianas (Suriname, Guyana) are 25-28% more expensive than Jamaica due to low call frequency. 40HQ is not offered on any Caribbean route in the current tariff.
 
 ---
 
@@ -82,7 +82,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 
 | Date | Rate (USD) | Change |
 |---|---|---|
-| 15 August 2026 | $7,600 | +10% vs 8 Aug |
+| 18 August 2026 | $7,180 | +4% vs 8 Aug |
 | 8 August 2026 | $6,900 | +5% vs 1 Aug |
 | 1 August 2026 | $6,600 | — (stable from Jul) |
 | 22 July 2026 | $6,600 | -3% vs 15 Jul |
@@ -96,7 +96,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 | 15 May 2026 | $3,520 | +21% vs 8 May |
 | 8 May 2026 | $2,900 | — (3-month low) |
 
-**Pattern:** The Caribbean lane (exemplified by Kingston) nearly tripled from $2,900 on 8 May to $7,600 by mid-August (+162%), mirroring the Colombia Caribbean lane. Rates doubled between 1 June ($4,440) and 1 July ($7,050) as peak-season demand on Panama Canal routes intensified.
+**Pattern:** The Caribbean lane (exemplified by Kingston) nearly tripled from $2,900 on 8 May to $7,180 by 18 August (+148%), mirroring the Colombia Caribbean lane. Rates doubled between 1 June ($4,440) and 1 July ($7,050) as peak-season demand on Panama Canal routes intensified.
 
 ---
 
@@ -131,7 +131,7 @@ Guideline FAK (Freight All Kinds) rates are published tariff rates from COSCO Sh
 
 ### Data Source
 
-All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **413,720 COSCO rate records**, of which **299,032 are active** (valid as of 18 August 2026), updated weekly.
+All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **443,288 COSCO rate records**, of which **320,776 are active** (valid as of 18 August 2026), updated weekly.
 
 ### Important Notes
 
@@ -154,7 +154,7 @@ All rates in this guide are sourced directly from **COSCO Shipping's weekly tari
 
 ### What is the current shipping rate from China to the Caribbean?
 
-As of August 2026, COSCO Shipping rates range from $7,600 (20GP) / $7,700 (40GP) to Kingston, Jamaica, up to $9,600 (20GP) / $9,700 (40GP) to Georgetown, Guyana. Port-au-Prince is $8,100/$8,200, Rio Haina and San Juan are $8,500/$8,600.
+As of August 2026, COSCO Shipping rates range from $7,180 (20GP) / $6,860 (40GP) to Kingston, Jamaica, up to $9,180 (20GP) / $8,860 (40GP) to Georgetown, Guyana. Port-au-Prince is $7,680/$7,360, Rio Haina and San Juan are $8,080/$7,760.
 
 ### How long does shipping take from China to the Caribbean?
 
@@ -162,7 +162,7 @@ Container shipping from China takes approximately 28-35 days to Kingston, 30-38 
 
 ### Which Caribbean destination is cheapest for shipping from China?
 
-Kingston, Jamaica is the cheapest Caribbean destination at $7,600 (20GP) / $7,700 (40GP), and it is also a major transshipment hub for the wider Caribbean region.
+Kingston, Jamaica is the cheapest Caribbean destination at $7,180 (20GP) / $6,860 (40GP), and it is also a major transshipment hub for the wider Caribbean region.
 
 ### What is the difference between 20GP, 40GP, and 40HQ containers?
 
@@ -185,14 +185,14 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
 ## References
 
 1. **COSCO Shipping Lines** — Official tariff sheets, weekly publications (2025-2026)
-2. **SHAQ Logistics Rate Database** — 413,720 COSCO rate records (299,032 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
+2. **SHAQ Logistics Rate Database** — 443,288 COSCO rate records (320,776 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
 3. **SHAQ Logistics MCP Server** — Real-time freight rate API via Model Context Protocol, [docs](https://search.shaq-logistics.com/docs/mcp-server)
 
 ---
 
 *This guide is published by SHAQ Logistics (Shenzhen, China). Rates are sourced from real carrier tariff sheets and updated weekly. For the most current rates, visit [search.shaq-logistics.com](https://search.shaq-logistics.com).*
 
-*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (413,720 records, 299,032 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
+*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (443,288 records, 320,776 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
 
 <!-- FAQPage JSON-LD Schema
 {
@@ -204,7 +204,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "What is the current shipping rate from China to the Caribbean?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "As of August 2026, COSCO Shipping rates range from $7,600 (20GP) / $7,700 (40GP) to Kingston, Jamaica, up to $9,600 (20GP) / $9,700 (40GP) to Georgetown, Guyana. Port-au-Prince is $8,100/$8,200, Rio Haina and San Juan are $8,500/$8,600."
+        "text": "As of August 2026, COSCO Shipping rates range from $7,180 (20GP) / $6,860 (40GP) to Kingston, Jamaica, up to $9,180 (20GP) / $8,860 (40GP) to Georgetown, Guyana. Port-au-Prince is $7,680/$7,360, Rio Haina and San Juan are $8,080/$7,760."
       }
     },
     {
@@ -220,7 +220,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "Which Caribbean destination is cheapest for shipping from China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Kingston, Jamaica is the cheapest Caribbean destination at $7,600 (20GP) / $7,700 (40GP), and it is also a major transshipment hub for the wider Caribbean region."
+        "text": "Kingston, Jamaica is the cheapest Caribbean destination at $7,180 (20GP) / $6,860 (40GP), and it is also a major transshipment hub for the wider Caribbean region."
       }
     },
     {
