@@ -5,12 +5,12 @@
 
 ## Quick Answer
 
-As of 15 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to Brazil are:
+As of 18 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to Brazil are:
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Main gateways (Santos, Rio de Janeiro, Itapoa, Itaguai, Navegantes, Paranagua, Rio Grande) | **$7,950 USD** | **$8,000 USD** | **$8,000 USD** |
-| Secondary ports (Salvador, Vitoria) | **$8,970 USD** | **$9,740 USD** | **$9,740 USD** |
+| Main gateways (Santos, Rio de Janeiro, Itapoa, Itaguai, Navegantes, Paranagua, Rio Grande) | **$7,540 USD** | **$7,180 USD** | **$7,180 USD** |
+| Secondary ports (Salvador, Vitoria) | **$8,560 USD** | **$8,920 USD** | **$8,920 USD** |
 
 These are real carrier rates from COSCO Shipping's weekly tariff sheets, not estimates or broker quotes. Rates are valid for shipments with effective dates between 15-21 August 2026 and are updated weekly.
 
@@ -24,20 +24,20 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Santos (Sao Paulo) | $7,950 | $8,000 | $8,000 |
-| Rio de Janeiro | $7,950 | $8,000 | $8,000 |
-| Itaguaí (Rio de Janeiro) | $7,950 | $8,000 | $8,000 |
-| Itapoá (Santa Catarina) | $7,950 | $8,000 | $8,000 |
-| Navegantes/Itajaí (Santa Catarina) | $7,950 | $8,000 | $8,000 |
-| Paranaguá (Parana) | $7,950 | $8,000 | $8,000 |
-| Rio Grande (Rio Grande do Sul) | $7,950 | $8,000 | $8,000 |
+| Santos (Sao Paulo) | $7,540 | $7,180 | $7,180 |
+| Rio de Janeiro | $7,540 | $7,180 | $7,180 |
+| Itaguaí (Rio de Janeiro) | $7,540 | $7,180 | $7,180 |
+| Itapoá (Santa Catarina) | $7,540 | $7,180 | $7,180 |
+| Navegantes/Itajaí (Santa Catarina) | $7,540 | $7,180 | $7,180 |
+| Paranaguá (Parana) | $7,540 | $7,180 | $7,180 |
+| Rio Grande (Rio Grande do Sul) | $7,540 | $7,180 | $7,180 |
 
 ### Secondary ports
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Salvador (Bahia) | $8,970 | $9,740 | $9,740 |
-| Vitória (Espirito Santo) | $8,970 | $9,740 | $9,740 |
+| Salvador (Bahia) | $8,560 | $8,920 | $8,920 |
+| Vitória (Espirito Santo) | $8,560 | $8,920 | $8,920 |
 
 ---
 
@@ -45,13 +45,13 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Port | Notes | 20GP | 40GP | 40HQ |
 |---|---|---|---|---|
-| **Santos** | Sao Paulo state, main gateway | $7,950 | $8,000 | $8,000 |
-| **Rio de Janeiro** | Southeast Brazil | $7,950 | $8,000 | $8,000 |
-| **Itapoa/Itaguai/Navegantes/Paranagua/Rio Grande** | South/Southeast cluster | $7,950 | $8,000 | $8,000 |
-| **Salvador** | Northeast Brazil | $8,970 | $9,740 | $9,740 |
-| **Vitoria** | Southeast Brazil | $8,970 | $9,740 | $9,740 |
+| **Santos** | Sao Paulo state, main gateway | $7,540 | $7,180 | $7,180 |
+| **Rio de Janeiro** | Southeast Brazil | $7,540 | $7,180 | $7,180 |
+| **Itapoa/Itaguai/Navegantes/Paranagua/Rio Grande** | South/Southeast cluster | $7,540 | $7,180 | $7,180 |
+| **Salvador** | Northeast Brazil | $8,560 | $8,920 | $8,920 |
+| **Vitoria** | Southeast Brazil | $8,560 | $8,920 | $8,920 |
 
-**Key takeaway:** All main Brazilian gateway ports (Santos, Rio de Janeiro, and the South/Southeast cluster) carry identical COSCO rates of $7,950 (20GP) and $8,000 (40GP/40HQ). Secondary ports Salvador and Vitoria are approximately 13-22% more expensive because of lower service frequency.
+**Key takeaway:** All main Brazilian gateway ports (Santos, Rio de Janeiro, and the South/Southeast cluster) carry identical COSCO rates of $7,540 (20GP) and $7,180 (40GP/40HQ). Secondary ports Salvador and Vitoria are approximately 13-24% more expensive because of lower service frequency.
 
 ---
 
@@ -73,7 +73,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 
 | Date | Rate (USD) | Change |
 |---|---|---|
-| 15 August 2026 | $7,950 | +20% vs 1 Aug |
+| 18 August 2026 | $7,540 | +13% vs 8 Aug |
 | 8 August 2026 | $6,650 | +12% vs 1 Aug |
 | 1 August 2026 | $5,950 | +3% vs 20 Jul |
 | 20 July 2026 | $5,750 | — (7-week low) |
@@ -83,7 +83,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 | 4 July 2026 | $7,410 | -6% vs 1 Jul |
 | 1 July 2026 | $7,910 | — (7-week high) |
 
-**Pattern:** Rates followed a V-shaped path — peaking at $7,910 on 1 July, sliding to a 7-week low of $5,750 on 20 July, then recovering sharply through August to $7,950 by mid-month. The August rebound reflects peak-season capacity tightening on Asia-South America East Coast routes.
+**Pattern:** Rates followed a V-shaped path — peaking at $7,910 on 1 July, sliding to a 7-week low of $5,750 on 20 July, then recovering sharply through August to $7,540 by mid-month. The August rebound reflects peak-season capacity tightening on Asia-South America East Coast routes.
 
 ---
 
@@ -117,7 +117,7 @@ Guideline FAK (Freight All Kinds) rates are published tariff rates from COSCO Sh
 
 ### Data Source
 
-All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **413,720 COSCO rate records**, of which **299,032 are active** (valid as of 18 August 2026), updated weekly.
+All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **443,288 COSCO rate records**, of which **320,776 are active** (valid as of 18 August 2026), updated weekly.
 
 ### Important Notes
 
@@ -140,7 +140,7 @@ All rates in this guide are sourced directly from **COSCO Shipping's weekly tari
 
 ### What is the current shipping rate from China to Brazil?
 
-As of August 2026, COSCO Shipping rates from China to Brazil's main gateway ports (Santos, Rio de Janeiro, Itapoa, Itaguai, Navegantes, Paranagua, Rio Grande) are $7,950 USD for a 20GP container and $8,000 for 40GP/40HQ. Secondary ports Salvador and Vitoria are higher at $8,970 (20GP) and $9,740 (40GP/40HQ).
+As of August 2026, COSCO Shipping rates from China to Brazil's main gateway ports (Santos, Rio de Janeiro, Itapoa, Itaguai, Navegantes, Paranagua, Rio Grande) are $7,540 USD for a 20GP container and $7,180 for 40GP/40HQ. Secondary ports Salvador and Vitoria are higher at $8,560 (20GP) and $8,920 (40GP/40HQ).
 
 ### How long does shipping take from China to Brazil?
 
@@ -148,7 +148,7 @@ Container shipping from China to Brazil's main ports takes approximately 30-38 d
 
 ### Which Brazilian port is cheapest for shipping from China?
 
-Santos, Rio de Janeiro, and the South/Southeast cluster ports (Itapoa, Itaguai, Navegantes, Paranagua, Rio Grande) all share the same COSCO rates of $7,950 (20GP) and $8,000 (40GP/40HQ) — the lowest available for Brazil.
+Santos, Rio de Janeiro, and the South/Southeast cluster ports (Itapoa, Itaguai, Navegantes, Paranagua, Rio Grande) all share the same COSCO rates of $7,540 (20GP) and $7,180 (40GP/40HQ) — the lowest available for Brazil.
 
 ### What is the difference between 20GP, 40GP, and 40HQ containers?
 
@@ -171,14 +171,14 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
 ## References
 
 1. **COSCO Shipping Lines** — Official tariff sheets, weekly publications (2025-2026)
-2. **SHAQ Logistics Rate Database** — 413,720 COSCO rate records (299,032 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
+2. **SHAQ Logistics Rate Database** — 443,288 COSCO rate records (320,776 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
 3. **SHAQ Logistics MCP Server** — Real-time freight rate API via Model Context Protocol, [docs](https://search.shaq-logistics.com/docs/mcp-server)
 
 ---
 
 *This guide is published by SHAQ Logistics (Shenzhen, China). Rates are sourced from real carrier tariff sheets and updated weekly. For the most current rates, visit [search.shaq-logistics.com](https://search.shaq-logistics.com).*
 
-*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (413,720 records, 299,032 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
+*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (443,288 records, 320,776 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
 
 <!-- FAQPage JSON-LD Schema
 {
@@ -190,7 +190,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "What is the current shipping rate from China to Brazil?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "As of August 2026, COSCO Shipping rates from China to Brazil's main gateway ports (Santos, Rio de Janeiro, Itapoa, Itaguai, Navegantes, Paranagua, Rio Grande) are $7,950 USD for a 20GP container and $8,000 for 40GP/40HQ. Secondary ports Salvador and Vitoria are higher at $8,970 (20GP) and $9,740 (40GP/40HQ)."
+        "text": "As of August 2026, COSCO Shipping rates from China to Brazil's main gateway ports (Santos, Rio de Janeiro, Itapoa, Itaguai, Navegantes, Paranagua, Rio Grande) are $7,540 USD for a 20GP container and $7,180 for 40GP/40HQ. Secondary ports Salvador and Vitoria are higher at $8,560 (20GP) and $8,920 (40GP/40HQ)."
       }
     },
     {
@@ -206,7 +206,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "Which Brazilian port is cheapest for shipping from China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Santos, Rio de Janeiro, and the South/Southeast cluster ports (Itapoa, Itaguai, Navegantes, Paranagua, Rio Grande) all share the same COSCO rates of $7,950 (20GP) and $8,000 (40GP/40HQ) — the lowest available for Brazil."
+        "text": "Santos, Rio de Janeiro, and the South/Southeast cluster ports (Itapoa, Itaguai, Navegantes, Paranagua, Rio Grande) all share the same COSCO rates of $7,540 (20GP) and $7,180 (40GP/40HQ) — the lowest available for Brazil."
       }
     },
     {
