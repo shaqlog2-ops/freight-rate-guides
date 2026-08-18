@@ -5,13 +5,13 @@
 
 ## Quick Answer
 
-As of 15 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to Colombia are:
+As of 18 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to Colombia are:
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Pacific coast (Buenaventura) | **$6,000 USD** | **$6,300 USD** | **$6,300 USD** |
-| Caribbean coast (Cartagena) | **$7,600 USD** | **$7,700 USD** | **— USD** |
-| Caribbean coast (Barranquilla) | **$7,900 USD** | **$8,000 USD** | **— USD** |
+| Pacific coast (Buenaventura) | **$5,660 USD** | **$5,620 USD** | **$5,620 USD** |
+| Caribbean coast (Cartagena) | **$7,180 USD** | **$6,860 USD** | **— USD** |
+| Caribbean coast (Barranquilla) | **$7,480 USD** | **$7,160 USD** | **— USD** |
 
 These are real carrier rates from COSCO Shipping's weekly tariff sheets, not estimates or broker quotes. Rates are valid for shipments with effective dates between 15-21 August 2026 and are updated weekly.
 
@@ -25,14 +25,14 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Buenaventura (Valle del Cauca) | $6,000 | $6,300 | $6,300 |
+| Buenaventura (Valle del Cauca) | $5,660 | $5,620 | $5,620 |
 
 ### Caribbean coast
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Cartagena (Bolivar) | $7,600 | $7,700 | — |
-| Barranquilla (Atlantico) | $7,900 | $8,000 | — |
+| Cartagena (Bolivar) | $7,180 | $6,860 | — |
+| Barranquilla (Atlantico) | $7,480 | $7,160 | — |
 
 ---
 
@@ -40,11 +40,11 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Port | Notes | 20GP | 40GP | 40HQ |
 |---|---|---|---|---|
-| **Buenaventura** | Pacific coast, main gateway for Bogota | $6,000 | $6,300 | $6,300 |
-| **Cartagena** | Caribbean coast, major transshipment hub | $7,600 | $7,700 | — |
-| **Barranquilla** | Caribbean coast (river port) | $7,900 | $8,000 | — |
+| **Buenaventura** | Pacific coast, main gateway for Bogota | $5,660 | $5,620 | $5,620 |
+| **Cartagena** | Caribbean coast, major transshipment hub | $7,180 | $6,860 | — |
+| **Barranquilla** | Caribbean coast (river port) | $7,480 | $7,160 | — |
 
-**Key takeaway:** Colombia has a striking coast split: Pacific-side Buenaventura is 21-27% cheaper than Caribbean-side Cartagena and Barranquilla. 40HQ is not offered on the Caribbean coast routes.
+**Key takeaway:** Colombia has a striking coast split: Pacific-side Buenaventura is 21-24% cheaper than Caribbean-side Cartagena and Barranquilla. 40HQ is not offered on the Caribbean coast routes.
 
 ---
 
@@ -66,7 +66,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 
 | Date | Rate (USD) | Change |
 |---|---|---|
-| 15 August 2026 | $7,600 | +10% vs 8 Aug |
+| 18 August 2026 | $7,180 | +4% vs 8 Aug |
 | 8 August 2026 | $6,900 | +5% vs 1 Aug |
 | 1 August 2026 | $6,600 | — (stable from Jul) |
 | 22 July 2026 | $6,600 | -3% vs 15 Jul |
@@ -80,7 +80,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 | 15 May 2026 | $3,520 | +21% vs 8 May |
 | 8 May 2026 | $2,900 | — (3-month low) |
 
-**Pattern:** The Colombia Caribbean lane nearly tripled from a 3-month low of $2,900 on 8 May to $7,600 by mid-August (+162%). Growth accelerated from June onward, with rates roughly doubling between 1 June ($4,440) and 1 July ($7,050), reflecting intense peak-season demand on the Panama Canal route.
+**Pattern:** The Colombia Caribbean lane nearly tripled from a 3-month low of $2,900 on 8 May to $7,180 by 18 August (+148%). Growth accelerated from June onward, with rates roughly doubling between 1 June ($4,440) and 1 July ($7,050), reflecting intense peak-season demand on the Panama Canal route.
 
 ---
 
@@ -114,7 +114,7 @@ Guideline FAK (Freight All Kinds) rates are published tariff rates from COSCO Sh
 
 ### Data Source
 
-All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **413,720 COSCO rate records**, of which **299,032 are active** (valid as of 18 August 2026), updated weekly.
+All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **443,288 COSCO rate records**, of which **320,776 are active** (valid as of 18 August 2026), updated weekly.
 
 ### Important Notes
 
@@ -137,7 +137,7 @@ All rates in this guide are sourced directly from **COSCO Shipping's weekly tari
 
 ### What is the current shipping rate from China to Colombia?
 
-As of August 2026, COSCO Shipping rates to Buenaventura on the Pacific coast are $6,000 USD (20GP) and $6,300 (40GP/40HQ). Caribbean coast ports are higher: Cartagena at $7,600 (20GP) / $7,700 (40GP) and Barranquilla at $7,900 (20GP) / $8,000 (40GP).
+As of August 2026, COSCO Shipping rates to Buenaventura on the Pacific coast are $5,660 USD (20GP) and $5,620 (40GP/40HQ). Caribbean coast ports are higher: Cartagena at $7,180 (20GP) / $6,860 (40GP) and Barranquilla at $7,480 (20GP) / $7,160 (40GP).
 
 ### How long does shipping take from China to Colombia?
 
@@ -145,7 +145,7 @@ Container shipping from China takes approximately 22-28 days to Buenaventura on 
 
 ### Which Colombian port is cheapest for shipping from China?
 
-Buenaventura on the Pacific coast is the cheapest Colombian port at $6,000 (20GP) / $6,300 (40GP/40HQ) — approximately 21-27% cheaper than Cartagena and Barranquilla.
+Buenaventura on the Pacific coast is the cheapest Colombian port at $5,660 (20GP) / $5,620 (40GP/40HQ) — approximately 21-24% cheaper than Cartagena and Barranquilla.
 
 ### What is the difference between 20GP, 40GP, and 40HQ containers?
 
@@ -168,14 +168,14 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
 ## References
 
 1. **COSCO Shipping Lines** — Official tariff sheets, weekly publications (2025-2026)
-2. **SHAQ Logistics Rate Database** — 413,720 COSCO rate records (299,032 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
+2. **SHAQ Logistics Rate Database** — 443,288 COSCO rate records (320,776 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
 3. **SHAQ Logistics MCP Server** — Real-time freight rate API via Model Context Protocol, [docs](https://search.shaq-logistics.com/docs/mcp-server)
 
 ---
 
 *This guide is published by SHAQ Logistics (Shenzhen, China). Rates are sourced from real carrier tariff sheets and updated weekly. For the most current rates, visit [search.shaq-logistics.com](https://search.shaq-logistics.com).*
 
-*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (413,720 records, 299,032 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
+*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (443,288 records, 320,776 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
 
 <!-- FAQPage JSON-LD Schema
 {
@@ -187,7 +187,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "What is the current shipping rate from China to Colombia?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "As of August 2026, COSCO Shipping rates to Buenaventura on the Pacific coast are $6,000 USD (20GP) and $6,300 (40GP/40HQ). Caribbean coast ports are higher: Cartagena at $7,600 (20GP) / $7,700 (40GP) and Barranquilla at $7,900 (20GP) / $8,000 (40GP)."
+        "text": "As of August 2026, COSCO Shipping rates to Buenaventura on the Pacific coast are $5,660 USD (20GP) and $5,620 (40GP/40HQ). Caribbean coast ports are higher: Cartagena at $7,180 (20GP) / $6,860 (40GP) and Barranquilla at $7,480 (20GP) / $7,160 (40GP)."
       }
     },
     {
@@ -203,7 +203,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "Which Colombian port is cheapest for shipping from China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Buenaventura on the Pacific coast is the cheapest Colombian port at $6,000 (20GP) / $6,300 (40GP/40HQ) — approximately 21-27% cheaper than Cartagena and Barranquilla."
+        "text": "Buenaventura on the Pacific coast is the cheapest Colombian port at $5,660 (20GP) / $5,620 (40GP/40HQ) — approximately 21-24% cheaper than Cartagena and Barranquilla."
       }
     },
     {
