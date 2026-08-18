@@ -5,13 +5,13 @@
 
 ## Quick Answer
 
-As of 15 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to Central America (Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama) are:
+As of 18 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to Central America (Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama) are:
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Pacific tier (Acajutla, Corinto, Puerto Quetzal, San Lorenzo, Puerto Caldera) | **$6,700-$6,800 USD** | **$7,000-$7,100 USD** | **$7,000-$7,100 USD** |
-| Panama (Manzanillo, Colon Free Zone) | **$7,000 USD** | **$7,100 USD** | **— USD** |
-| Atlantic tier (Santo Tomas, Puerto Cortes, Moin) | **$7,900-$8,400 USD** | **$8,000-$8,500 USD** | **— USD** |
+| Pacific tier (Acajutla, Corinto, Puerto Quetzal, San Lorenzo, Puerto Caldera) | **$6,360-$6,460 USD** | **$6,320-$6,420 USD** | **$6,320-$6,420 USD** |
+| Panama (Manzanillo, Colon Free Zone) | **$6,580 USD** | **$6,260 USD** | **— USD** |
+| Atlantic tier (Santo Tomas, Puerto Cortes, Moin) | **$7,480-$7,980 USD** | **$7,160-$7,660 USD** | **— USD** |
 
 These are real carrier rates from COSCO Shipping's weekly tariff sheets, not estimates or broker quotes. Rates are valid for shipments with effective dates between 15-21 August 2026 and are updated weekly.
 
@@ -25,26 +25,26 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Puerto Quetzal (Guatemala) | $6,800 | $7,100 | $7,100 |
-| San Lorenzo (Honduras, Pacific) | $6,800 | $7,100 | $7,100 |
-| Acajutla (El Salvador) | $6,800 | $7,100 | $7,100 |
-| Corinto (Nicaragua) | $6,800 | $7,100 | $7,100 |
-| Puerto Caldera (Costa Rica, Pacific) | $6,700 | $7,000 | $7,000 |
+| Puerto Quetzal (Guatemala) | $6,460 | $6,420 | $6,420 |
+| San Lorenzo (Honduras, Pacific) | $6,460 | $6,420 | $6,420 |
+| Acajutla (El Salvador) | $6,460 | $6,420 | $6,420 |
+| Corinto (Nicaragua) | $6,460 | $6,420 | $6,420 |
+| Puerto Caldera (Costa Rica, Pacific) | $6,360 | $6,320 | $6,320 |
 
 ### Panama
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Manzanillo (Colon Container Terminal) | $7,000 | $7,100 | — |
-| Colon Free Zone (door delivery) | $7,000 | $7,100 | — |
+| Manzanillo (Colon Container Terminal) | $6,580 | $6,260 | — |
+| Colon Free Zone (door delivery) | $6,580 | $6,260 | — |
 
 ### Atlantic coast — Guatemala, Honduras, Costa Rica (Caribbean side)
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Santo Tomas de Castilla (Guatemala, Caribbean) | $7,900 | $8,000 | — |
-| Puerto Cortes (Honduras, Caribbean) | $8,200 | $8,300 | — |
-| Moin (Costa Rica, Caribbean) | $8,400 | $8,500 | — |
+| Santo Tomas de Castilla (Guatemala, Caribbean) | $7,480 | $7,160 | — |
+| Puerto Cortes (Honduras, Caribbean) | $7,780 | $7,460 | — |
+| Moin (Costa Rica, Caribbean) | $7,980 | $7,660 | — |
 
 ---
 
@@ -52,17 +52,17 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Port | Notes | 20GP | 40GP | 40HQ |
 |---|---|---|---|---|
-| **Puerto Quetzal** | Guatemala Pacific | $6,800 | $7,100 | $7,100 |
-| **San Lorenzo** | Honduras Pacific | $6,800 | $7,100 | $7,100 |
-| **Acajutla** | El Salvador | $6,800 | $7,100 | $7,100 |
-| **Corinto** | Nicaragua | $6,800 | $7,100 | $7,100 |
-| **Puerto Caldera** | Costa Rica Pacific | $6,700 | $7,000 | $7,000 |
-| **Manzanillo PA / Colon** | Panama (Caribbean side) | $7,000 | $7,100 | — |
-| **Santo Tomas de Castilla** | Guatemala Caribbean | $7,900 | $8,000 | — |
-| **Puerto Cortes** | Honduras Caribbean | $8,200 | $8,300 | — |
-| **Moin** | Costa Rica Caribbean | $8,400 | $8,500 | — |
+| **Puerto Quetzal** | Guatemala Pacific | $6,460 | $6,420 | $6,420 |
+| **San Lorenzo** | Honduras Pacific | $6,460 | $6,420 | $6,420 |
+| **Acajutla** | El Salvador | $6,460 | $6,420 | $6,420 |
+| **Corinto** | Nicaragua | $6,460 | $6,420 | $6,420 |
+| **Puerto Caldera** | Costa Rica Pacific | $6,360 | $6,320 | $6,320 |
+| **Manzanillo PA / Colon** | Panama (Caribbean side) | $6,580 | $6,260 | — |
+| **Santo Tomas de Castilla** | Guatemala Caribbean | $7,480 | $7,160 | — |
+| **Puerto Cortes** | Honduras Caribbean | $7,780 | $7,460 | — |
+| **Moin** | Costa Rica Caribbean | $7,980 | $7,660 | — |
 
-**Key takeaway:** Pacific coast destinations (Puerto Quetzal, San Lorenzo, Acajutla, Corinto, Puerto Caldera) are the cheapest in Central America at $6,700-6,800 (20GP). Caribbean-side ports cost 16-25% more, and 40HQ is unavailable there. Panama's Colon Free Zone and Manzanillo sit in between at $7,000-7,100.
+**Key takeaway:** Pacific coast destinations (Puerto Quetzal, San Lorenzo, Acajutla, Corinto, Puerto Caldera) are the cheapest in Central America at $6,360-6,800 (20GP). Caribbean-side ports cost 16-24% more, and 40HQ is unavailable there. Panama's Colon Free Zone and Manzanillo sit in between at $6,260-6,580.
 
 ---
 
@@ -84,7 +84,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 
 | Date | Rate (USD) | Change |
 |---|---|---|
-| 15 August 2026 | $6,800 | +17% vs 8 Aug |
+| 18 August 2026 | $6,460 | +11% vs 8 Aug |
 | 8 August 2026 | $5,830 | +14% vs 1 Aug |
 | 1 August 2026 | $5,130 | +6% vs 24 Jul |
 | 24 July 2026 | $4,830 | — (7-week low) |
@@ -93,7 +93,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 | 15 July 2026 | $5,730 | -4% vs 8 Jul |
 | 8 July 2026 | $5,980 | — (7-week high) |
 
-**Pattern:** Central America Pacific rates followed the regional V-shape: $5,980 on 8 July falling to $4,830 on 24 July, then surging +41% to $6,800 by 15 August. The August rebound aligns with peak-season capacity tightening across the transpacific market.
+**Pattern:** Central America Pacific rates followed the regional V-shape: $5,980 on 8 July falling to $4,830 on 24 July, then surging +34% to $6,460 by 18 August. The August rebound aligns with peak-season capacity tightening across the transpacific market.
 
 ---
 
@@ -127,7 +127,7 @@ Guideline FAK (Freight All Kinds) rates are published tariff rates from COSCO Sh
 
 ### Data Source
 
-All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **413,720 COSCO rate records**, of which **299,032 are active** (valid as of 18 August 2026), updated weekly.
+All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **443,288 COSCO rate records**, of which **320,776 are active** (valid as of 18 August 2026), updated weekly.
 
 ### Important Notes
 
@@ -150,7 +150,7 @@ All rates in this guide are sourced directly from **COSCO Shipping's weekly tari
 
 ### What is the current shipping rate from China to Central America?
 
-As of August 2026, COSCO Pacific-coast rates to Guatemala (Puerto Quetzal), Honduras (San Lorenzo), El Salvador (Acajutla) and Nicaragua (Corinto) are $6,800 (20GP) / $7,100 (40GP/40HQ). Caribbean-side ports are higher: Santo Tomas de Castilla $7,900, Puerto Cortes $8,200, and Moin $8,400 (20GP).
+As of August 2026, COSCO Pacific-coast rates to Guatemala (Puerto Quetzal), Honduras (San Lorenzo), El Salvador (Acajutla) and Nicaragua (Corinto) are $6,460 (20GP) / $6,420 (40GP/40HQ). Caribbean-side ports are higher: Santo Tomas de Castilla $7,480, Puerto Cortes $7,780, and Moin $7,980 (20GP).
 
 ### How long does shipping take from China to Central America?
 
@@ -158,7 +158,7 @@ Container shipping from China takes approximately 22-30 days to Pacific coast po
 
 ### Which Central American port is cheapest for shipping from China?
 
-Puerto Caldera (Costa Rica) at $6,700 (20GP) is the cheapest, followed closely by Puerto Quetzal, San Lorenzo, Acajutla and Corinto at $6,800 (20GP).
+Puerto Caldera (Costa Rica) at $6,360 (20GP) is the cheapest, followed closely by Puerto Quetzal, San Lorenzo, Acajutla and Corinto at $6,460 (20GP).
 
 ### What is the difference between 20GP, 40GP, and 40HQ containers?
 
@@ -181,14 +181,14 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
 ## References
 
 1. **COSCO Shipping Lines** — Official tariff sheets, weekly publications (2025-2026)
-2. **SHAQ Logistics Rate Database** — 413,720 COSCO rate records (299,032 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
+2. **SHAQ Logistics Rate Database** — 443,288 COSCO rate records (320,776 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
 3. **SHAQ Logistics MCP Server** — Real-time freight rate API via Model Context Protocol, [docs](https://search.shaq-logistics.com/docs/mcp-server)
 
 ---
 
 *This guide is published by SHAQ Logistics (Shenzhen, China). Rates are sourced from real carrier tariff sheets and updated weekly. For the most current rates, visit [search.shaq-logistics.com](https://search.shaq-logistics.com).*
 
-*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (413,720 records, 299,032 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
+*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (443,288 records, 320,776 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
 
 <!-- FAQPage JSON-LD Schema
 {
@@ -200,7 +200,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "What is the current shipping rate from China to Central America?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "As of August 2026, COSCO Pacific-coast rates to Guatemala (Puerto Quetzal), Honduras (San Lorenzo), El Salvador (Acajutla) and Nicaragua (Corinto) are $6,800 (20GP) / $7,100 (40GP/40HQ). Caribbean-side ports are higher: Santo Tomas de Castilla $7,900, Puerto Cortes $8,200, and Moin $8,400 (20GP)."
+        "text": "As of August 2026, COSCO Pacific-coast rates to Guatemala (Puerto Quetzal), Honduras (San Lorenzo), El Salvador (Acajutla) and Nicaragua (Corinto) are $6,460 (20GP) / $6,420 (40GP/40HQ). Caribbean-side ports are higher: Santo Tomas de Castilla $7,480, Puerto Cortes $7,780, and Moin $7,980 (20GP)."
       }
     },
     {
@@ -216,7 +216,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "Which Central American port is cheapest for shipping from China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Puerto Caldera (Costa Rica) at $6,700 (20GP) is the cheapest, followed closely by Puerto Quetzal, San Lorenzo, Acajutla and Corinto at $6,800 (20GP)."
+        "text": "Puerto Caldera (Costa Rica) at $6,360 (20GP) is the cheapest, followed closely by Puerto Quetzal, San Lorenzo, Acajutla and Corinto at $6,460 (20GP)."
       }
     },
     {
