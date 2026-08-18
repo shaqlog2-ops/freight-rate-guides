@@ -5,12 +5,12 @@
 
 ## Quick Answer
 
-As of 15 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to the Southern Cone (Argentina, Uruguay, Paraguay) are:
+As of 18 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to the Southern Cone (Argentina, Uruguay, Paraguay) are:
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Buenos Aires (Argentina) / Montevideo (Uruguay) | **$7,950 USD** | **$8,000 USD** | **$8,000 USD** |
-| Asuncion (Paraguay) | **$8,950 USD** | **$9,800 USD** | **$9,800 USD** |
+| Buenos Aires (Argentina) / Montevideo (Uruguay) | **$7,540 USD** | **$7,180 USD** | **$7,180 USD** |
+| Asuncion (Paraguay) | **$8,540 USD** | **$8,980 USD** | **$8,980 USD** |
 
 These are real carrier rates from COSCO Shipping's weekly tariff sheets, not estimates or broker quotes. Rates are valid for shipments with effective dates between 15-21 August 2026 and are updated weekly.
 
@@ -24,14 +24,14 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Buenos Aires (Argentina) | $7,950 | $8,000 | $8,000 |
-| Montevideo (Uruguay) | $7,950 | $8,000 | $8,000 |
+| Buenos Aires (Argentina) | $7,540 | $7,180 | $7,180 |
+| Montevideo (Uruguay) | $7,540 | $7,180 | $7,180 |
 
 ### Paraguay (via River Plate transit)
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Asuncion (Paraguay) | $8,950 | $9,800 | $9,800 |
+| Asuncion (Paraguay) | $8,540 | $8,980 | $8,980 |
 
 ---
 
@@ -39,11 +39,11 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Port | Notes | 20GP | 40GP | 40HQ |
 |---|---|---|---|---|
-| **Buenos Aires** | Argentina — main gateway | $7,950 | $8,000 | $8,000 |
-| **Montevideo** | Uruguay | $7,950 | $8,000 | $8,000 |
-| **Asuncion** | Paraguay (river access) | $8,950 | $9,800 | $9,800 |
+| **Buenos Aires** | Argentina — main gateway | $7,540 | $7,180 | $7,180 |
+| **Montevideo** | Uruguay | $7,540 | $7,180 | $7,180 |
+| **Asuncion** | Paraguay (river access) | $8,540 | $8,980 | $8,980 |
 
-**Key takeaway:** Buenos Aires and Montevideo share identical COSCO rates of $7,950 (20GP) / $8,000 (40GP/40HQ). Paraguay's Asuncion, reachable via the River Plate, costs 13% more on 20GP and 23% more on 40GP due to feeder/river-leg transit.
+**Key takeaway:** Buenos Aires and Montevideo share identical COSCO rates of $7,540 (20GP) / $7,180 (40GP/40HQ). Paraguay's Asuncion, reachable via the River Plate, costs 13% more on 20GP and 25% more on 40GP due to feeder/river-leg transit.
 
 ---
 
@@ -65,7 +65,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 
 | Date | Rate (USD) | Change |
 |---|---|---|
-| 15 August 2026 | $7,950 | +20% vs 1 Aug |
+| 18 August 2026 | $7,540 | +13% vs 8 Aug |
 | 8 August 2026 | $6,650 | +12% vs 1 Aug |
 | 1 August 2026 | $5,950 | +3% vs 20 Jul |
 | 20 July 2026 | $5,750 | — (7-week low) |
@@ -75,7 +75,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 | 4 July 2026 | $7,410 | -6% vs 1 Jul |
 | 1 July 2026 | $7,910 | — (7-week high) |
 
-**Pattern:** The River Plate lane mirrored Brazil: rates fell from $7,910 (1 July) to a 7-week low of $5,750 (20 July), then rebounded sharply to $7,950 by 15 August — a +38% recovery in less than a month on peak-season demand.
+**Pattern:** The River Plate lane mirrored Brazil: rates fell from $7,910 (1 July) to a 7-week low of $5,750 (20 July), then rebounded sharply to $7,540 by 18 August — a +31% recovery in less than a month on peak-season demand.
 
 ---
 
@@ -109,7 +109,7 @@ Guideline FAK (Freight All Kinds) rates are published tariff rates from COSCO Sh
 
 ### Data Source
 
-All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **413,720 COSCO rate records**, of which **299,032 are active** (valid as of 18 August 2026), updated weekly.
+All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **443,288 COSCO rate records**, of which **320,776 are active** (valid as of 18 August 2026), updated weekly.
 
 ### Important Notes
 
@@ -132,7 +132,7 @@ All rates in this guide are sourced directly from **COSCO Shipping's weekly tari
 
 ### What is the current shipping rate from China to Argentina, Uruguay and Paraguay?
 
-As of August 2026, COSCO Shipping rates to Buenos Aires and Montevideo are $7,950 USD (20GP) and $8,000 (40GP/40HQ). Asuncion, Paraguay is higher at $8,950 (20GP) / $9,800 (40GP/40HQ) due to the additional river-leg transit.
+As of August 2026, COSCO Shipping rates to Buenos Aires and Montevideo are $7,540 USD (20GP) and $7,180 (40GP/40HQ). Asuncion, Paraguay is higher at $8,540 (20GP) / $8,980 (40GP/40HQ) due to the additional river-leg transit.
 
 ### How long does shipping take from China to Argentina, Uruguay and Paraguay?
 
@@ -140,7 +140,7 @@ Container shipping from China takes approximately 32-40 days to Buenos Aires and
 
 ### Which Southern Cone port is cheapest for shipping from China?
 
-Buenos Aires and Montevideo are equally the cheapest at $7,950 (20GP) / $8,000 (40GP/40HQ). Asuncion costs about 13% more for 20GP due to its river access.
+Buenos Aires and Montevideo are equally the cheapest at $7,540 (20GP) / $7,180 (40GP/40HQ). Asuncion costs about 13% more for 20GP due to its river access.
 
 ### What is the difference between 20GP, 40GP, and 40HQ containers?
 
@@ -163,14 +163,14 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
 ## References
 
 1. **COSCO Shipping Lines** — Official tariff sheets, weekly publications (2025-2026)
-2. **SHAQ Logistics Rate Database** — 413,720 COSCO rate records (299,032 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
+2. **SHAQ Logistics Rate Database** — 443,288 COSCO rate records (320,776 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
 3. **SHAQ Logistics MCP Server** — Real-time freight rate API via Model Context Protocol, [docs](https://search.shaq-logistics.com/docs/mcp-server)
 
 ---
 
 *This guide is published by SHAQ Logistics (Shenzhen, China). Rates are sourced from real carrier tariff sheets and updated weekly. For the most current rates, visit [search.shaq-logistics.com](https://search.shaq-logistics.com).*
 
-*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (413,720 records, 299,032 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
+*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (443,288 records, 320,776 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
 
 <!-- FAQPage JSON-LD Schema
 {
@@ -182,7 +182,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "What is the current shipping rate from China to Argentina, Uruguay and Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "As of August 2026, COSCO Shipping rates to Buenos Aires and Montevideo are $7,950 USD (20GP) and $8,000 (40GP/40HQ). Asuncion, Paraguay is higher at $8,950 (20GP) / $9,800 (40GP/40HQ) due to the additional river-leg transit."
+        "text": "As of August 2026, COSCO Shipping rates to Buenos Aires and Montevideo are $7,540 USD (20GP) and $7,180 (40GP/40HQ). Asuncion, Paraguay is higher at $8,540 (20GP) / $8,980 (40GP/40HQ) due to the additional river-leg transit."
       }
     },
     {
@@ -198,7 +198,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "Which Southern Cone port is cheapest for shipping from China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Buenos Aires and Montevideo are equally the cheapest at $7,950 (20GP) / $8,000 (40GP/40HQ). Asuncion costs about 13% more for 20GP due to its river access."
+        "text": "Buenos Aires and Montevideo are equally the cheapest at $7,540 (20GP) / $7,180 (40GP/40HQ). Asuncion costs about 13% more for 20GP due to its river access."
       }
     },
     {
