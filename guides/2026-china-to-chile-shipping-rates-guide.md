@@ -5,12 +5,12 @@
 
 ## Quick Answer
 
-As of 15 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to Chile are:
+As of 18 August 2026, COSCO Shipping's Guideline FAK rates for container shipping from China to Chile are:
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Central Chile (Valparaiso, San Antonio, Lirquen) | **$6,000 USD** | **$6,300 USD** | **$6,300 USD** |
-| Northern Chile (Iquique, Arica) | **$6,200 USD** | **$6,500 USD** | **$6,500 USD** |
+| Central Chile (Valparaiso, San Antonio, Lirquen) | **$5,660 USD** | **$5,620 USD** | **$5,620 USD** |
+| Northern Chile (Iquique, Arica) | **$5,860 USD** | **$5,820 USD** | **$5,820 USD** |
 
 These are real carrier rates from COSCO Shipping's weekly tariff sheets, not estimates or broker quotes. Rates are valid for shipments with effective dates between 15-21 August 2026 and are updated weekly.
 
@@ -24,16 +24,16 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Valparaiso | $6,000 | $6,300 | $6,300 |
-| San Antonio | $6,000 | $6,300 | $6,300 |
-| Lirquen (Bio-Bio region) | $6,000 | $6,300 | $6,300 |
+| Valparaiso | $5,660 | $5,620 | $5,620 |
+| San Antonio | $5,660 | $5,620 | $5,620 |
+| Lirquen (Bio-Bio region) | $5,660 | $5,620 | $5,620 |
 
 ### Northern Chile
 
 | Destination | 20GP | 40GP | 40HQ |
 |---|---|---|---|
-| Iquique | $6,200 | $6,500 | $6,500 |
-| Arica | $6,200 | $6,500 | $6,500 |
+| Iquique | $5,860 | $5,820 | $5,820 |
+| Arica | $5,860 | $5,820 | $5,820 |
 
 ---
 
@@ -41,13 +41,13 @@ All rates below are COSCO Shipping Guideline FAK rates in USD per container, eff
 
 | Port | Notes | 20GP | 40GP | 40HQ |
 |---|---|---|---|---|
-| **Valparaiso** | Central Chile, main gateway | $6,000 | $6,300 | $6,300 |
-| **San Antonio** | Central Chile, largest volume port | $6,000 | $6,300 | $6,300 |
-| **Lirquen** | Bio-Bio region | $6,000 | $6,300 | $6,300 |
-| **Iquique** | Northern Chile (free trade zone) | $6,200 | $6,500 | $6,500 |
-| **Arica** | Northern Chile, near Peruvian border | $6,200 | $6,500 | $6,500 |
+| **Valparaiso** | Central Chile, main gateway | $5,660 | $5,620 | $5,620 |
+| **San Antonio** | Central Chile, largest volume port | $5,660 | $5,620 | $5,620 |
+| **Lirquen** | Bio-Bio region | $5,660 | $5,620 | $5,620 |
+| **Iquique** | Northern Chile (free trade zone) | $5,860 | $5,820 | $5,820 |
+| **Arica** | Northern Chile, near Peruvian border | $5,860 | $5,820 | $5,820 |
 
-**Key takeaway:** Central Chile ports (Valparaiso, San Antonio, Lirquen) are the cheapest and most frequent service points at $6,000 (20GP) / $6,300 (40GP/40HQ). Northern ports Iquique and Arica cost ~3% more due to lower call frequency.
+**Key takeaway:** Central Chile ports (Valparaiso, San Antonio, Lirquen) are the cheapest and most frequent service points at $5,660 (20GP) / $5,620 (40GP/40HQ). Northern ports Iquique and Arica cost ~4% more due to lower call frequency.
 
 ---
 
@@ -69,7 +69,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 
 | Date | Rate (USD) | Change |
 |---|---|---|
-| 15 August 2026 | $6,000 | +19% vs 8 Aug |
+| 18 August 2026 | $5,660 | +13% vs 8 Aug |
 | 8 August 2026 | $5,030 | +16% vs 1 Aug |
 | 1 August 2026 | $4,330 | +7% vs 24 Jul |
 | 24 July 2026 | $4,030 | — (7-week low) |
@@ -78,7 +78,7 @@ All rates are FCL (Full Container Load). LCL (Less than Container Load) rates ar
 | 15 July 2026 | $4,930 | -5% vs 8 Jul |
 | 8 July 2026 | $5,180 | — (7-week high) |
 
-**Pattern:** Rates declined steadily through July from $5,180 to a low of $4,030 on 24 July, then staged a strong three-week rebound of +49% to $6,000 by 15 August — the highest level in the 7-week window as peak season tightened capacity.
+**Pattern:** Rates declined steadily through July from $5,180 to a low of $4,030 on 24 July, then staged a strong three-week rebound of +40% to $5,660 by 18 August — the highest level in the 7-week window as peak season tightened capacity.
 
 ---
 
@@ -111,7 +111,7 @@ Guideline FAK (Freight All Kinds) rates are published tariff rates from COSCO Sh
 
 ### Data Source
 
-All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **413,720 COSCO rate records**, of which **299,032 are active** (valid as of 18 August 2026), updated weekly.
+All rates in this guide are sourced directly from **COSCO Shipping's weekly tariff sheets** and are maintained in the SHAQ Logistics real-time rate database. The database currently holds **443,288 COSCO rate records**, of which **320,776 are active** (valid as of 18 August 2026), updated weekly.
 
 ### Important Notes
 
@@ -134,7 +134,7 @@ All rates in this guide are sourced directly from **COSCO Shipping's weekly tari
 
 ### What is the current shipping rate from China to Chile?
 
-As of August 2026, COSCO Shipping rates from China to central Chile (Valparaiso, San Antonio, Lirquen) are $6,000 USD for a 20GP container and $6,300 for 40GP/40HQ. Northern Chile ports (Iquique, Arica) are $6,200 (20GP) and $6,500 (40GP/40HQ).
+As of August 2026, COSCO Shipping rates from China to central Chile (Valparaiso, San Antonio, Lirquen) are $5,660 USD for a 20GP container and $5,620 for 40GP/40HQ. Northern Chile ports (Iquique, Arica) are $5,860 (20GP) and $5,820 (40GP/40HQ).
 
 ### How long does shipping take from China to Chile?
 
@@ -142,7 +142,7 @@ Container shipping from China to Chile takes approximately 22-28 days to Valpara
 
 ### Which Chilean port is cheapest for shipping from China?
 
-Valparaiso, San Antonio, and Lirquen are the cheapest Chilean ports with identical COSCO rates of $6,000 (20GP) and $6,300 (40GP/40HQ), and they offer the most frequent sailings.
+Valparaiso, San Antonio, and Lirquen are the cheapest Chilean ports with identical COSCO rates of $5,660 (20GP) and $5,620 (40GP/40HQ), and they offer the most frequent sailings.
 
 ### What is the difference between 20GP, 40GP, and 40HQ containers?
 
@@ -165,14 +165,14 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
 ## References
 
 1. **COSCO Shipping Lines** — Official tariff sheets, weekly publications (2025-2026)
-2. **SHAQ Logistics Rate Database** — 413,720 COSCO rate records (299,032 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
+2. **SHAQ Logistics Rate Database** — 443,288 COSCO rate records (320,776 active), [search.shaq-logistics.com](https://search.shaq-logistics.com)
 3. **SHAQ Logistics MCP Server** — Real-time freight rate API via Model Context Protocol, [docs](https://search.shaq-logistics.com/docs/mcp-server)
 
 ---
 
 *This guide is published by SHAQ Logistics (Shenzhen, China). Rates are sourced from real carrier tariff sheets and updated weekly. For the most current rates, visit [search.shaq-logistics.com](https://search.shaq-logistics.com).*
 
-*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (413,720 records, 299,032 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
+*SHAQ Logistics is a freight rate platform providing real-time ocean freight rates sourced from COSCO Shipping's weekly tariff sheets (443,288 records, 320,776 active). Contact: WhatsApp +86-158-1850-5125 | Email: ayang@shaq-log.com | Address: Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Luohu District, Shenzhen, China*
 
 <!-- FAQPage JSON-LD Schema
 {
@@ -184,7 +184,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "What is the current shipping rate from China to Chile?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "As of August 2026, COSCO Shipping rates from China to central Chile (Valparaiso, San Antonio, Lirquen) are $6,000 USD for a 20GP container and $6,300 for 40GP/40HQ. Northern Chile ports (Iquique, Arica) are $6,200 (20GP) and $6,500 (40GP/40HQ)."
+        "text": "As of August 2026, COSCO Shipping rates from China to central Chile (Valparaiso, San Antonio, Lirquen) are $5,660 USD for a 20GP container and $5,620 for 40GP/40HQ. Northern Chile ports (Iquique, Arica) are $5,860 (20GP) and $5,820 (40GP/40HQ)."
       }
     },
     {
@@ -200,7 +200,7 @@ These rates are reference tariff rates. To book a shipment, contact SHAQ Logisti
       "name": "Which Chilean port is cheapest for shipping from China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Valparaiso, San Antonio, and Lirquen are the cheapest Chilean ports with identical COSCO rates of $6,000 (20GP) and $6,300 (40GP/40HQ), and they offer the most frequent sailings."
+        "text": "Valparaiso, San Antonio, and Lirquen are the cheapest Chilean ports with identical COSCO rates of $5,660 (20GP) and $5,620 (40GP/40HQ), and they offer the most frequent sailings."
       }
     },
     {
