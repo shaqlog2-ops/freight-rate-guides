@@ -16,8 +16,10 @@ The cost to ship a 40-foot container from major Chinese ports to Latin America r
 6. [Cheapest Destination Analysis](#cheapest-analysis)
 7. [FCL vs LCL: Break-Even Point](#fcl-lcl)
 8. [Country Customs & Tax Notes](#customs)
-9. [FAQ](#faq)
-10. [Schema Data](#schema)
+9. [Destination Port & Handling Fees](#destination-fees)
+10. [Seasonal Pricing & Peak Surcharges](#seasonal)
+11. [FAQ](#faq)
+12. [Schema Data](#schema)
 
 ---
 
@@ -224,6 +226,36 @@ A 20ft container holds roughly 28–33 CBM of usable space; a 40ft high cube hol
 
 ---
 
+<a id="destination-fees"></a>
+## Destination Port & Handling Fees
+
+The base ocean freight in the tables above is port-to-port. On arrival, shippers should budget for additional destination-side charge categories:
+
+- **THC (Terminal Handling Charge)** — charged by the destination terminal for unloading the container from the vessel and moving it to the container yard.
+- **Bodegaje / Warehouse Storage** — warehouse free time is often shorter (3–5 days) than carrier yard free time (14–21 days). Cargo moved to a customs warehouse can accumulate storage faster than expected.
+- **Demurrage / Detention** — charges for keeping the container beyond the carrier’s allowed free time at port or for late empty return.
+- **Customs Exam / Inspection** — physical or X-ray inspection fees charged by customs authorities (ANAM in Mexico, DIAN in Colombia, Receita Federal/Siscomex in Brazil).
+- **Documentation & Agency** — delivery order, manifest correction, customs broker agency fees.
+- **Inland Haulage** — trucking/rail from port to final warehouse.
+
+These charges vary by port, forwarder, and cargo type; they are not included in the base ocean freight rates shown above.
+
+---
+
+<a id="seasonal"></a>
+## Seasonal Pricing & Peak Season Surcharges
+
+Ocean freight rates on Asia–Latin America lanes follow a seasonal pattern:
+
+- **Pre-Chinese New Year (mid-January to mid-February):** Tight vessel space before factory shutdowns; carriers often impose Peak Season Surcharges (PSS) of roughly 15–25%.
+- **Q3 peak season (August to October):** Back-to-school and holiday inventory pushes demand up; PSS and equipment-imbalance surcharges are common.
+- **Post-Chinese New Year (March–April):** Soft demand typically brings the lowest rates of the year.
+- **May–July:** Gradual recovery as retailers restock ahead of Q3.
+
+The USD 7,300–9,000 FCL rates and USD 7–170/CBM LCL rates shown above reflect the prevailing August 2026 market level, which already includes peak-season adjustments. For shipments outside August, request a live quote to capture current PSS and equipment status.
+
+---
+
 <a id="faq"></a>
 ## FAQ: Shipping from China to Latin America
 
@@ -250,6 +282,9 @@ Yes. Effective January 1, 2026, Mexico raised tariffs on 1,463 product lines fro
 
 **What taxes apply when importing from China to Colombia?**
 Import duty (0–20% by HS code) plus 19% VAT on CIF + duty. DIAN manages clearance through VUCE; a licensed customs broker is required for most commercial shipments.
+
+**What extra fees should I budget for besides ocean freight?**
+Expect destination THC, possible customs inspection fees, documentation/agency fees, demurrage if container free time is exceeded, and inland trucking. Warehouse storage ("bodegaje") free time is often 3–5 days, shorter than carrier yard free time. These are separate from the base ocean freight and vary by port and forwarder.
 
 ---
 
@@ -315,6 +350,14 @@ Import duty (0–20% by HS code) plus 19% VAT on CIF + duty. DIAN manages cleara
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "LCL minimums range from USD 7/CBM to Guayaquil (COSCO, 37 days) and USD 32/CBM to Paranaguá (EMC/HMM, 36 days), up to USD 170/CBM to Cartagena (COSCO). Rates are per-CBM and exclude origin/destination handling."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What extra fees should I budget for besides ocean freight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expect destination THC, possible customs inspection fees, documentation/agency fees, demurrage if container free time is exceeded, and inland trucking. Warehouse storage (\"bodegaje\") free time is often 3-5 days, shorter than carrier yard free time. These are separate from the base ocean freight and vary by port and forwarder."
       }
     }
   ],
