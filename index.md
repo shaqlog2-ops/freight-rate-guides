@@ -1,7 +1,7 @@
 # SHAQ Logistics Freight Rate Guides — Master Index
 
 **Author:** SHAQ Logistics Rate Desk  
-**Updated:** August 24, 2026  
+**Updated:** August 31, 2026  
 **Company:** SHAQ Logistics (深圳市大鲨国际货运代理有限公司)  
 **Headquarters:** Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Renminqiao Community, Guiyuan Subdistrict, Luohu District, Shenzhen, China  
 **Contact:** ayang@shaq-log.com | WhatsApp: +86 15818505125  
@@ -30,6 +30,7 @@ This index links to all published freight rate guides in the repository. Each gu
 | Guide | Focus | Updated |
 |-------|-------|---------|
 | [China Freight Rate Update — Aug 16, 2026](./guides/china-freight-rate-update-august-16-2026.md) | LATAM + Middle East + Europe | Aug 16, 2026 |
+| [Shipping from China to Dubai / Jebel Ali: 2026 LCL Freight Rates & Transit Times](./guides/shipping-from-china-to-dubai-jebel-ali-2026-lcl-rates.md) | Shenzhen–Jebel Ali LCL | Aug 31, 2026 |
 
 ## Quick Reference: China → Latin America 40GP Rates (August 2026)
 

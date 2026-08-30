@@ -1,7 +1,7 @@
 # SHAQ Logistics Freight Rate Guides
 
 **Author:** SHAQ Logistics Rate Desk  
-**Updated:** August 24, 2026  
+**Updated:** August 31, 2026  
 **Company:** SHAQ Logistics (深圳市大鲨国际货运代理有限公司)  
 **Headquarters:** Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Renminqiao Community, Guiyuan Subdistrict, Luohu District, Shenzhen, China  
 **Contact:** ayang@shaq-log.com | WhatsApp: +86 15818505125  
@@ -25,6 +25,7 @@ This repository publishes real, bookable freight rate guides for major shipping 
 | [2026 China to Central America Shipping Rates Guide](./guides/2026-china-to-central-america-shipping-rates-guide.md) | FCL + LCL | Contact for live quote | 2026 |
 | [2026 China to Argentina, Uruguay & Paraguay Shipping Rates Guide](./guides/2026-china-to-argentina-uruguay-paraguay-shipping-rates-guide.md) | FCL + LCL | Contact for live quote | 2026 |
 | [Shipping from China to Latin America: 2026 Rate Comparison by Country](./guides/shipping-from-china-to-latin-america-2026-rate-comparison.md) | FCL + LCL | USD 7,300 – 9,000 FCL; USD 7 – 170/CBM LCL | Aug 24, 2026 |
+| [Shipping from China to Dubai / Jebel Ali: 2026 LCL Freight Rates & Transit Times](./guides/shipping-from-china-to-dubai-jebel-ali-2026-lcl-rates.md) | LCL | USD 34 – 54/CBM | Aug 31, 2026 |
 
 ## Why This Format
 
