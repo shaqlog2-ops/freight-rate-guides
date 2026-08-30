@@ -13,7 +13,8 @@ The cost to ship LCL (Less than Container Load) from Shenzhen to Dubai / Jebel A
 3. [FCL on This Lane](#fcl)
 4. [Transit Time](#transit-time)
 5. [Cheapest Way to Ship to Dubai](#cheapest)
-6. [FAQ](#faq)
+6. [What the Rate Includes & Excludes](#cost-stack)
+7. [FAQ](#faq)
 
 ---
 
@@ -69,6 +70,34 @@ FCL rates from Shenzhen to Jebel Ali are available on request. Rates on this lan
 
 ---
 
+<a id="cost-stack"></a>
+## What the USD 34–54/CBM Rate Includes (and What It Doesn't)
+
+The LCL rates above cover **ocean freight from Shenzhen CFS to Jebel Ali CFS** on the OOCL/CSCL/YML consolidation service. They do not represent the total landed cost. Below is the typical cost stack for a Shenzhen → Jebel Ali LCL shipment, with statutory charges that apply to most UAE imports.
+
+### Included in the per-CBM rate
+- Ocean consolidation freight Shenzhen CFS → Jebel Ali CFS
+- Carrier documentation fee for the consolidation
+
+### Not included — typical additional charges
+| Charge | Typical basis | Notes |
+|--------|--------------|-------|
+| Origin THC / CFS handling | USD 50–200 per shipment | Varies by cargo volume and origin CFS |
+| Destination handling (DTHC) | USD 25–75 per CBM | Jebel Ali deconsolidation, documentation |
+| Customs clearance | Flat or per-shipment | Varies by broker and cargo complexity |
+| UAE customs duty | 5% of CIF value | Most goods; some categories exempt (e.g., re-export to free zones) |
+| UAE VAT | 5% of customs-cleared value | Recoverable for VAT-registered importers |
+| MOFAIC attestation | AED 150 (~USD 41) per commercial invoice | Mandatory for commercial invoices > AED 10,000 since Sep 2024 |
+| Last-mile delivery | AED 100–600 | Depends on distance from Jebel Ali |
+
+### Chargeable weight
+LCL carriers bill the greater of **actual CBM** or **chargeable weight**. The common conversion is **1 CBM ≈ 1,000 kg**. Dense cargo (machinery, tiles, metals) at 1.2–1.5 tonnes per CBM can therefore be billed by weight rather than volume. Always confirm the chargeable-weight rule with your forwarder before quoting.
+
+### FCL and other origins
+This guide focuses on **Shenzhen → Jebel Ali** because that is the lane with live bookable data in the SHAQ database. FCL rates for 20GP/40GP/40HQ and LCL rates from Shanghai, Ningbo, Guangzhou or Qingdao to Jebel Ali are available on request.
+
+---
+
 <a id="faq"></a>
 ## FAQ: Shipping from China to Dubai
 
@@ -89,6 +118,12 @@ Yes. FCL rates for 20GP, 40GP, and 40HQ containers are available on request. FCL
 
 **Do I need to pay customs duties when importing to UAE?**
 The UAE applies a 5% customs duty on most imported goods (CIF value). Some categories are exempt (e.g., goods for re-export via free zones like JAFZA). Additional charges include VAT (introduced in 2018 at 5%) and potentially excise duty on specific products.
+
+**What is chargeable weight for LCL shipping?**
+Chargeable weight is the greater of actual volume (CBM) or weight, using the carrier's conversion factor. For most LCL consolidations to Jebel Ali, **1 CBM ≈ 1,000 kg**. Heavy dense cargo such as machinery or tiles may be billed by weight rather than volume. Always confirm the chargeable-weight rule with your forwarder.
+
+**What are typical destination charges in Jebel Ali?**
+Destination handling for LCL usually runs USD 25–75 per CBM for deconsolidation and documentation, plus customs clearance, duty (5% of CIF), VAT (5%), and last-mile delivery. Commercial invoices over AED 10,000 also require a MOFAIC attestation (AED 150 ≈ USD 41).
 
 ---
 
@@ -157,10 +192,26 @@ Web: [search.shaq-logistics.com](https://search.shaq-logistics.com) | [shaq-log.
         "@type": "Answer",
         "text": "Cargo from Shenzhen arrives at Jebel Ali Port (AEJEA), the largest container port in the Middle East. Jebel Ali is also home to Jebel Ali Free Zone (JAFZA), a major re-export hub."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "What is chargeable weight for LCL shipping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chargeable weight is the greater of actual volume (CBM) or weight, using the carrier's conversion factor. For most LCL consolidations to Jebel Ali, 1 CBM is approximately 1,000 kg. Heavy dense cargo may be billed by weight rather than volume."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are typical destination charges in Jebel Ali?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Destination handling for LCL usually runs USD 25-75 per CBM for deconsolidation and documentation, plus customs clearance, duty (5% of CIF), VAT (5%), and last-mile delivery. Commercial invoices over AED 10,000 also require a MOFAIC attestation (AED 150, approximately USD 41)."
+      }
     }
   ],
   "inLanguage": "en",
-  "dateModified": "2026-08-16"
+  "dateModified": "2026-08-31"
 }
 ```
 
