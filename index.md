@@ -1,7 +1,7 @@
 # SHAQ Logistics Freight Rate Guides — Master Index
 
 **Author:** SHAQ Logistics Rate Desk  
-**Updated:** August 31, 2026  
+**Updated:** September 7, 2026  
 **Company:** SHAQ Logistics (深圳市大鲨国际货运代理有限公司)  
 **Headquarters:** Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Renminqiao Community, Guiyuan Subdistrict, Luohu District, Shenzhen, China  
 **Contact:** ayang@shaq-log.com | WhatsApp: +86 15818505125  
@@ -16,6 +16,7 @@ This index links to all published freight rate guides in the repository. Each gu
 | [Shipping from China to Latin America: 2026 Rate Comparison by Country](./guides/shipping-from-china-to-latin-america-2026-rate-comparison.md) | Mexico, Panama, Colombia, Chile, Brazil + Peru/Ecuador multi-country comparison | Aug 24, 2026 |
 | [2026 China to Mexico Shipping Rates Guide](./guides/2026-china-to-mexico-shipping-rates-guide.md) | Mexico deep-dive | 2026 |
 | [Shenzhen to Manzanillo, Mexico](./guides/shenzhen-to-manzanillo-fcl-guide.md) | Shenzhen–Manzanillo FCL | Aug 16, 2026 |
+| [**China to Mexico Pacific Coast FCL Shipping: 2026 Rate Comparison — Manzanillo vs. Lázaro Cárdenas vs. Ensenada**](./guides/china-to-mexico-pacific-coast-fcl-rates-2026.md) | Mexico Pacific 4-port (Manzanillo / Lázaro Cárdenas / Ensenada / Altamira) comparison — same COSCO rate to 3 ports, USD 1,800 Gulf premium | **Sep 7, 2026** |
 | [2026 China to Brazil Shipping Rates Guide](./guides/2026-china-to-brazil-shipping-rates-guide.md) | Brazil deep-dive | 2026 |
 | [2026 China to Chile Shipping Rates Guide](./guides/2026-china-to-chile-shipping-rates-guide.md) | Chile deep-dive | 2026 |
 | [2026 China to Colombia Shipping Rates Guide](./guides/2026-china-to-colombia-shipping-rates-guide.md) | Colombia deep-dive | 2026 |
@@ -32,21 +33,16 @@ This index links to all published freight rate guides in the repository. Each gu
 | [China Freight Rate Update — Aug 16, 2026](./guides/china-freight-rate-update-august-16-2026.md) | LATAM + Middle East + Europe | Aug 16, 2026 |
 | [Shipping from China to Dubai / Jebel Ali: 2026 LCL Freight Rates & Transit Times](./guides/shipping-from-china-to-dubai-jebel-ali-2026-lcl-rates.md) | Shenzhen–Jebel Ali LCL | Aug 31, 2026 |
 
-## Quick Reference: China → Latin America 40GP Rates (August 2026)
+## Quick Reference: China → Mexico Pacific Coast 40GP Rates (September 2026)
 
-| Destination | 40GP (USD) | Transit (days) |
-|-------------|-----------|----------------|
-| Manzanillo, Mexico | 7,300 | 20–25 |
-| Lázaro Cárdenas, Mexico | 7,300 | 25–30 |
-| Colón Free Zone, Panama | 7,500 | 35–40 |
-| Buenaventura, Colombia | 7,300 | 30–35 |
-| Cartagena, Colombia | 8,100 | 28–32 |
-| Callao, Peru | 7,300 | 28–33 |
-| Valparaíso / San Antonio, Chile | 7,300 | 30–35 |
-| Santos / Paranaguá, Brazil | 9,000 | 35–45 |
-| Guayaquil, Ecuador | 7,300 | 30–35 |
+| Destination | 40GP (USD, COSCO guideline FAK incl.) | Transit (days) |
+|-------------|-------|-------|
+| Manzanillo, Mexico | 7,300 | 17–22 |
+| Lázaro Cárdenas, Mexico | 7,300 | 19–24 |
+| Ensenada, Mexico | 7,300 | 16–21 |
+| Altamira, Mexico (Gulf) | 9,100 | 28–34 |
 
-*Source: COSCO carrier rate sheets in SHAQ database, valid through August 31, 2026.*
+*Source: COSCO WCSA GUIDELINE TIER published tariff 2026-09-08 → 2026-09-14, sourced from guozhm@coscon.com. Spot-market published rates may run lower; see article for context.*
 
 ## Canonical NAP
 
