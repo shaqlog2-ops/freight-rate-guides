@@ -1,7 +1,7 @@
 # SHAQ Logistics Freight Rate Guides — Master Index
 
 **Author:** SHAQ Logistics Rate Desk  
-**Updated:** September 14, 2026
+**Updated:** September 21, 2026
 **Company:** SHAQ Logistics (深圳市大鲨国际货运代理有限公司)  
 **Headquarters:** Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Renminqiao Community, Guiyuan Subdistrict, Luohu District, Shenzhen, China  
 **Contact:** ayang@shaq-log.com | WhatsApp: +86 15818505125  
@@ -13,6 +13,7 @@ This index links to all published freight rate guides in the repository. Each gu
 
 | Guide | Focus | Updated |
 |-------|-------|---------|
+| [**Shipping from China to Chancay Port, Peru: 2026 COSCO FCL Rates — Chancay vs. Callao**](./guides/china-to-chancay-peru-fcl-rates-2026.md) | Chancay megaport deep-dive — COSCO FAK parity with Callao, ~23-day direct service, Matarani/Paita premium, South Asia–Chancay rates | **2026-09-21** |
 | [Container Shipping from China to Santos, Brazil: 2026 COSCO FCL Freight Rates & Custo Brasil Cost Guide](./guides/china-to-santos-brazil-fcl-rates-2026.md) | Santos/Itaguai/Itapoa/Paranagua/Rio Grande — COSCO FCL from 11 China ports + Custo Brasil cost stack | **2026-09-14** |
 | [Shipping from China to Latin America: 2026 Rate Comparison by Country](./guides/shipping-from-china-to-latin-america-2026-rate-comparison.md) | Mexico, Panama, Colombia, Chile, Brazil + Peru/Ecuador multi-country comparison | Aug 24, 2026 |
 | [2026 China to Mexico Shipping Rates Guide](./guides/2026-china-to-mexico-shipping-rates-guide.md) | Mexico deep-dive | 2026 |

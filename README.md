@@ -1,7 +1,7 @@
 # SHAQ Logistics Freight Rate Guides
 
 **Author:** SHAQ Logistics Rate Desk  
-**Updated:** September 14, 2026
+**Updated:** September 21, 2026
 **Company:** SHAQ Logistics (深圳市大鲨国际货运代理有限公司)  
 **Headquarters:** Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Renminqiao Community, Guiyuan Subdistrict, Luohu District, Shenzhen, China  
 **Contact:** ayang@shaq-log.com | WhatsApp: +86 15818505125  
@@ -13,6 +13,7 @@ This repository publishes real, bookable freight rate guides for major shipping 
 
 | Route | Mode | Latest Rate | Updated |
 |-------|------|-------------|---------|
+| [Shipping from China to Chancay Port, Peru: 2026 COSCO FCL Rates — Chancay vs. Callao](./guides/china-to-chancay-peru-fcl-rates-2026.md) | FCL | USD 5,500 – 5,800 per container | 2026-09-21 |
 | [Container Shipping from China to Santos, Brazil: 2026 COSCO FCL Freight Rates & Custo Brasil Cost Guide](./guides/china-to-santos-brazil-fcl-rates-2026.md) | FCL | USD 9,950 – 10,200 per container | 2026-09-14 |
 | [Shenzhen to Manzanillo, Mexico](./guides/shenzhen-to-manzanillo-fcl-guide.md) | FCL | USD 5,620 – 5,660 per container | Aug 16, 2026 |
 | [China Freight Rate Update — Aug 16, 2026 (LATAM, Middle East, Europe)](./guides/china-freight-rate-update-august-16-2026.md) | FCL + LCL | USD 5,620 – 7,180 FCL; USD 34 – 182 LCL | Aug 16, 2026 |
