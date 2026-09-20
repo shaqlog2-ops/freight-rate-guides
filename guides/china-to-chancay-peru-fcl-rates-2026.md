@@ -116,7 +116,11 @@ The Chancay direct service is the reason the port exists: it compresses Peru tra
 - **Southern Peru (Arequipa, Moquegua):** compare Chancay + trucking against the direct Matarani call — the ~USD 1,000 ocean premium to Matarani can be wiped out by 1,000+ km of Andean trucking, or justified by it, depending on final city.
 - **Northern Peru (Piura, Trujillo):** Paita is closer, but the ~USD 1,600 20GP premium over the Lima gateway usually still favors Chancay/Callao + inland trucking for cost-sensitive cargo.
 
-**Budget note:** Peru imports carry 18% IGV (VAT) on CIF value plus import duty by HS code (commonly 0%, 6%, or 11% under Peru's MFN schedule) — confirm exact treatment with your customs broker before quoting landed cost.
+**Budget note:** Peru imports carry 18% IGV (VAT) on CIF value plus import duty by HS code. Under the **China–Peru FTA**, most goods enter at **0% duty with a valid Certificate of Origin** matched line-by-line to the shipment — without it, SUNAT applies the general 0–11% MFN rate, and the Certificate of Origin cannot be fixed retroactively after clearance. SUNAT clearance typically adds **1–3 working days**.
+
+**Destination-side costs to expect at Callao/Chancay** (categories, quoted case-by-case): destination THC, **Visto Bueno** (the document-release fee charged by the carrier's local agent — a Peru-specific line item that surprises first-time importers), customs examination fees if flagged, and inland drayage. Also note Callao's recurring truck congestion around Avenida Faucett, which can add 24–48 hours to inland delivery into Lima; Chancay's Panamericana Norte drayage is longer in kilometers but currently less congestion-prone.
+
+**Air alternative:** for urgent top-up orders, air freight from major Chinese airports to Lima (LIM) runs roughly 3–8 days on published schedules — worth quoting when ocean transit of 3–5 weeks breaks a launch deadline.
 
 <a id="faq"></a>
 ## FAQ
@@ -140,7 +144,7 @@ The Fuel Adjustment Factor in this tariff is USD 360 per 20GP and USD 720 per 40
 Below roughly 20–25 CBM, yes. The break-even math: USD 5,500 per 20GP ÷ ~28 usable CBM ≈ USD 196 per CBM. If your LCL quote exceeds about USD 196/CBM (or your cargo is dense and bills on chargeable weight), FCL is cheaper.
 
 **Q7. What taxes apply when importing into Peru?**
-Peru applies 18% IGV (VAT) on CIF value plus import duty by HS code — commonly 0%, 6%, or 11% under Peru's MFN schedule. Verify your product's specific treatment and any free-trade-agreement preference with a Peruvian customs broker.
+Peru applies 18% IGV (VAT) on CIF value plus import duty by HS code (commonly 0%, 6%, or 11% under Peru's MFN schedule). Under the China–Peru FTA, most goods enter at 0% duty with a valid Certificate of Origin — without it, the general 0–11% rate applies and cannot be corrected retroactively. SUNAT clearance typically takes 1–3 working days.
 
 **Q8. What are the rates from India to Chancay?**
 From the October 2026 COSCO tariff: USD 2,360 per 20GP and USD 2,820 per 40GP from Mundra, Nhava Sheva, Chennai, Colombo, Chittagong, Karachi and other subcontinent ports (USD 2,460/3,020 from Cochin/Tuticorin).
@@ -223,7 +227,7 @@ From the October 2026 COSCO tariff: USD 2,360 per 20GP and USD 2,820 per 40GP fr
           "name": "What taxes apply when importing into Peru?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Peru applies 18% IGV (VAT) on CIF value plus import duty by HS code, commonly 0%, 6% or 11% under Peru's MFN schedule. Confirm product-specific treatment with a Peruvian customs broker."
+            "text": "Peru applies 18% IGV (VAT) on CIF value plus import duty by HS code, commonly 0%, 6% or 11% under Peru's MFN schedule. Under the China-Peru FTA, most goods enter at 0% duty with a valid Certificate of Origin matched to the shipment - without it the general 0-11% rate applies and cannot be corrected after clearance. SUNAT clearance typically takes 1-3 working days. Expect destination THC, the Peru-specific Visto Bueno document-release fee and possible exam fees on top of ocean freight."
           }
         },
         {
