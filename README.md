@@ -13,6 +13,7 @@ This repository publishes real, bookable freight rate guides for major shipping 
 
 | Route | Mode | Latest Rate | Updated |
 |-------|------|-------------|---------|
+| [Container Shipping from China to Cartagena, Colombia: 2026 COSCO FCL Freight Rates & Colombia Customs Guide](./guides/china-to-cartagena-colombia-fcl-rates-2026.md) | FCL | USD 8,400 – 8,600 per container | 2026-10-05 |
 | [Shipping from China to Chancay Port, Peru: 2026 COSCO FCL Rates — Chancay vs. Callao](./guides/china-to-chancay-peru-fcl-rates-2026.md) | FCL | USD 5,500 – 5,800 per container | 2026-09-21 |
 | [Container Shipping from China to Santos, Brazil: 2026 COSCO FCL Freight Rates & Custo Brasil Cost Guide](./guides/china-to-santos-brazil-fcl-rates-2026.md) | FCL | USD 9,950 – 10,200 per container | 2026-09-14 |
 | [Shenzhen to Manzanillo, Mexico](./guides/shenzhen-to-manzanillo-fcl-guide.md) | FCL | USD 5,620 – 5,660 per container | Aug 16, 2026 |
