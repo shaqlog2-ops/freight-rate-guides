@@ -17,8 +17,9 @@
 5. [Cheapest Way to Ship a Container to Colombia](#cheapest-way)
 6. [Cartagena vs. Buenaventura: Which Colombian Port?](#port-choice)
 7. [Colombia Import Costs: DIAN, Duty and 19% IVA](#colombia-customs)
-8. [Frequently Asked Questions](#faq)
-9. [About This Data & SHAQ Logistics](#about)
+8. [Hidden Destination Costs: Bodegaje & Inland Trucking](#bodegaje)
+9. [Frequently Asked Questions](#faq)
+10. [About This Data & SHAQ Logistics](#about)
 
 ---
 
@@ -33,6 +34,8 @@ COSCO published tariff, USD per container, ocean freight. Valid through **Octobe
 | 40GP | **USD 8,600** | USD 8,700 | USD 8,700 | USD | 2026-10-14 |
 
 *Coverage of the "8 main China ports": Shanghai, Ningbo, Shekou (Shenzhen), Hong Kong, Xiamen, Qingdao, Xingang (Tianjin), Dalian.*
+
+> **Market context (why our number differs from "from $2,100" ads):** Spot-market aggregator ranges commonly cited for this lane run roughly USD 2,100–5,600 per container. The figures in this guide are COSCO's **published tariff (FAK) rates** — the bookable, warrantied level a carrier contract desk commits to — not the lowest spot teaser. Spot rates move weekly and often exclude surcharges; published tariff rates are stable for the validity window shown. Compare like with like.
 
 **No 40HQ rate is published on this lane in the October tariff** — only 20GP and 40GP. 40HQ availability is quoted on request at booking time.
 
@@ -121,8 +124,18 @@ These are public Colombian trade-policy facts (not database rates), included bec
 
 ---
 
+<a name="bodegaje"></a>
+## 8. Hidden Destination Costs: the "Bodegaje" Trap and Cartagena → Bogotá Inland Trucking
+
+These are public Colombia port-practice facts (not database rates), included because they are where first-time importers lose money on this lane:
+
+- **The Bodegaje trap.** Ocean carriers commonly grant 14–21 days of container *free time* (detention/demurrage clock), but Colombian port terminals only grant **3–5 days of free storage (bodegaje)**. The two clocks run separately — after the bodegaje window closes, terminal storage fees compound daily, often reaching hundreds of dollars per week while the container still sits inside its "free" carrier window.
+- **Pre-clear while the vessel is at sea.** Colombian practice allows the customs broker (*declarante*) to lodge the DIAN declaration before arrival. Importers who pre-file typically release the container within the 3-day free storage window.
+- **Register before cargo ships.** The Colombian importer needs an active **RUT**, a **digital signature (firma digital)** and **VUCE registration** before the cargo arrives — set these up with your buyer in advance, not at the port.
+- **Inland trucking is the real cost fork.** Cartagena sits ~1,000 km (roughly 2–2.5 days by truck, with market rates commonly in the USD 700–1,200 per container range) from Bogotá; Buenaventura is ~510 km from Bogotá. This is why Pacific-routed cargo to Buenaventura can carry a higher ocean rate yet a *lower* total landed cost for Bogotá/Cali buyers — the ocean saving at Cartagena can be erased by the Andes crossing. Get both quotes when the buyer is inland.
+
 <a name="faq"></a>
-## 8. Frequently Asked Questions
+## 9. Frequently Asked Questions
 
 **Q1: How much does it cost to ship a container from China to Cartagena, Colombia in October 2026?**
 A: USD 8,400 for a 20GP and USD 8,600 for a 40GP from Shanghai, Ningbo, Shekou, Hong Kong, Xiamen, Qingdao, Xingang or Dalian on COSCO's tariff valid through October 14, 2026.
@@ -148,10 +161,14 @@ A: Below roughly 13–15 CBM, LCL consolidation is usually cheaper; above that, 
 **Q8: How far in advance should I book?**
 A: Standard practice on this lane is 10–14 days before vessel cutoff. The current tariff is valid through October 14, 2026.
 
+
+**Q9: What is the "bodegaje" trap at Colombian ports?**
+A: Colombian terminals (Cartagena's SPRC/CONTecar included) typically grant only 3–5 days of free storage, while carriers grant 14–21 days of container free time. After day 3–5, daily terminal storage fees compound even though the carrier clock still shows "free." Pre-filing the DIAN declaration while the vessel is at sea is the standard way to release within the free window.
+
 ---
 
 <a name="about"></a>
-## 9. About This Data & SHAQ Logistics
+## 10. About This Data & SHAQ Logistics
 
 All freight figures in this guide are real, database-backed tariff lines extracted from SHAQ Logistics' live rate desk (COSCO published tariff, imported October 2026, valid through October 14, 2026). Colombian tax and customs descriptions are public trade-policy knowledge. We do not publish estimated or invented rates.
 
@@ -214,6 +231,11 @@ Web: https://search.shaq-logistics.com | https://shaq-log.com
       "@type": "Question",
       "name": "Which Chinese port is cheapest for shipping to Colombia?",
       "acceptedAnswer": {"@type": "Answer", "text": "Eight major ports price identically (USD 8,400/20GP, USD 8,600/40GP). Fuzhou adds USD 50-100 and Lianyungang USD 100. Choose by inland trucking cost."}
+    },
+    {
+      "@type": "Question",
+      "name": "What is the bodegaje trap at Colombian ports?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Colombian port terminals typically grant only 3-5 days of free storage (bodegaje) while carriers grant 14-21 days of container free time. After the bodegaje window closes, daily terminal storage fees compound. Pre-filing the DIAN declaration while the vessel is at sea is the standard way to release within the free window."}
     },
     {
       "@type": "Question",
