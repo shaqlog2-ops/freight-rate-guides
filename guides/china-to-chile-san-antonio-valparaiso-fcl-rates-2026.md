@@ -154,6 +154,32 @@ Given the Oct 15–21 tariff, the cost-minimizing playbook is:
 - **IVA (VAT) is 19%**, applied on CIF value + duties. Unlike Peru (where IVA is generally recoverable), Chilean IVA applies to imports and is creditable against output VAT for registered importers — plan cash flow accordingly.
 - **Customs authority:** Servicio Nacional de Aduanas de Chile. Standard import requires a Declaración de Ingreso; most containers clear within 1–3 business days when documents (B/L, commercial invoice, packing list, certificate of origin) are pre-filed.
 - **San Antonio and Valparaíso both sit ~100–120 km from Santiago** via Routes 78 and 68 respectively; inland trucking to the capital is the single largest variable destination cost after IVA cash flow.
+- **Non-FTA goods pay a flat 6% duty.** Cargo that doesn't qualify under the FTA (missing or non-compliant certificate of origin) faces Chile's 6% flat import duty on top of 19% IVA — a compliance failure that quietly adds 6% to landed cost. De-minimis consignments (under ~USD 30) are duty-exempt but IVA still applies.
+- **San Antonio is expanding into "Puerto Exterior."** In May 2026 Chile approved a USD 4.45 billion expansion plan that will triple the port's capacity to ~6 million TEU and berth up to eight 400 m vessels simultaneously; construction is expected to begin in 2027. San Antonio was already the first Chilean port to handle 2 million TEU in a year (2025) — for long-term shippers, this cements its role as Chile's primary container gateway.
+
+### Destination charges at Chilean ports (typical published ranges — third-party forwarder data, not SHAQ database rates)
+
+Our COSCO guideline covers the ocean leg only. At destination, budget for the following categories (typical ranges published by Chile-trade forwarders such as DTFU/Dantful, October 2026):
+
+| Charge | Typical range | Notes |
+|---|---|---|
+| Terminal handling (THC) | ~USD 100 (20ft) / ~USD 160 (40ft) | Per container, terminal-dependent |
+| Port congestion surcharge | USD 80–200 per container | Applied at San Antonio/Valparaíso during peaks |
+| Documentation (B/L, F-form, customs forms) | USD 70–120 per shipment | |
+| Customs filing/brokerage | USD 150–300 per shipment | Mandatory for imports over USD 500 |
+| SAG sanitary/phytosanitary fee | USD 20–100 per shipment | Food, plants, wood products |
+| Free time at port | Negotiate 7–14 days | Storage escalates fast after free time |
+
+### Congestion & seasonal risk factors (public schedule knowledge)
+
+- **Berth windows at Valparaíso run tighter than San Antonio** — a missed window typically costs 2–4 days. This is the operational reason Section 7 defaults to San Antonio despite identical ocean freight.
+- **September–November is the Christmas-restocking peak** on this trade; space to central Chile firms up and congestion surcharges appear. The Chinese New Year rush (late January) tightens South China load ports next.
+- **SAG (agricultural inspection service) adds time** for food, plants and wood products — pre-file phytosanitary certificates or face multi-day holds.
+- **Chilean holidays — including Fiestas Patrias on September 18 —** slow both clearance and inland trucking; avoid landing a customs-critical container in mid-September.
+
+### Air freight reality check (orientation only)
+
+There are **no direct cargo flights from China to Chile** — air freight transships through Miami (MIA), Los Angeles (LAX) or Frankfurt (FRA) before reaching Santiago (SCL), running roughly 5–10 days at USD 4–10/kg per published forwarder ranges. For northern Chile's mining trade, LATAM Cargo's Frankfurt–Antofagasta route (May 2026) now offers a Europe-origin alternative. At USD 5,160 per 40HQ, ocean remains the default: air costs roughly 20× more per kilogram.
 
 ---
 
