@@ -1,7 +1,7 @@
 # SHAQ Logistics Freight Rate Guides
 
 **Author:** SHAQ Logistics Rate Desk  
-**Updated:** October 12, 2026
+**Updated:** October 19, 2026
 **Company:** SHAQ Logistics (深圳市大鲨国际货运代理有限公司)  
 **Headquarters:** Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Renminqiao Community, Guiyuan Subdistrict, Luohu District, Shenzhen, China  
 **Contact:** ayang@shaq-log.com | WhatsApp: +86 15818505125  
@@ -13,6 +13,7 @@ This repository publishes real, bookable freight rate guides for major shipping 
 
 | Route | Mode | Latest Rate | Updated |
 |-------|------|-------------|---------|
+| [Container Shipping from China to Ecuador: 2026 COSCO FCL Rates — Guayaquil vs. Posorja (Oct 22–28 Tariff)](./guides/china-to-ecuador-guayaquil-posorja-fcl-rates-2026.md) | FCL | USD 5,860 – 6,030 per container | 2026-10-19 |
 | [Container Shipping from China to Chile: 2026 COSCO FCL Rates — San Antonio vs. Valparaíso vs. Northern Ports (Oct 15–21 Tariff)](./guides/china-to-chile-san-antonio-valparaiso-fcl-rates-2026.md) | FCL | USD 5,160 – 5,330 per container | 2026-10-12 |
 | [Container Shipping from China to Cartagena, Colombia: 2026 COSCO FCL Freight Rates & Colombia Customs Guide](./guides/china-to-cartagena-colombia-fcl-rates-2026.md) | FCL | USD 8,400 – 8,600 per container | 2026-10-05 |
 | [Shipping from China to Chancay Port, Peru: 2026 COSCO FCL Rates — Chancay vs. Callao](./guides/china-to-chancay-peru-fcl-rates-2026.md) | FCL | USD 5,500 – 5,800 per container | 2026-09-21 |

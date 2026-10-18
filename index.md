@@ -1,7 +1,7 @@
 # SHAQ Logistics Freight Rate Guides — Master Index
 
 **Author:** SHAQ Logistics Rate Desk  
-**Updated:** October 12, 2026
+**Updated:** October 19, 2026
 **Company:** SHAQ Logistics (深圳市大鲨国际货运代理有限公司)  
 **Headquarters:** Room 3702, Long Park Chong Chin Building, No. 2010 Bao'an South Road, Renminqiao Community, Guiyuan Subdistrict, Luohu District, Shenzhen, China  
 **Contact:** ayang@shaq-log.com | WhatsApp: +86 15818505125  
@@ -13,6 +13,7 @@ This index links to all published freight rate guides in the repository. Each gu
 
 | Guide | Focus | Updated |
 |-------|-------|---------|
+| [**Container Shipping from China to Ecuador: 2026 COSCO FCL Rates — Guayaquil vs. Posorja (Oct 22–28 Tariff)**](./guides/china-to-ecuador-guayaquil-posorja-fcl-rates-2026.md) | Ecuador deep-dive — 20GP USD 6,030 / 40s USD 5,860 (+13.1%/+13.6% WoW), Posorja = Guayaquil pricing, no LCL in current COSCO vintage, China–Ecuador FTA 1 May 2024 | **2026-10-19** |
 | [**Container Shipping from China to Chile: 2026 COSCO FCL Rates — San Antonio vs. Valparaíso vs. Northern Ports (Oct 15–21 Tariff)**](./guides/china-to-chile-san-antonio-valparaiso-fcl-rates-2026.md) | Chile deep-dive — 20GP USD 5,330 / 40s USD 5,160 (−11.0% WoW), Iquique/Arica +200 premium, WCSA flat pricing to Callao/Chancay/Guayaquil/Posorja, China–Chile FTA 0% duty / 19% IVA | **2026-10-12** |
 | [**Container Shipping from China to Cartagena, Colombia: 2026 COSCO FCL Rates — 20GP USD 8,400 / 40GP USD 8,600**](./guides/china-to-cartagena-colombia-fcl-rates-2026.md) | Colombia deep-dive — Cartagena vs. Buenaventura, +6.2% 40GP trend, no China FTA / 19% IVA context, 8-port flat pricing | **2026-10-05** |
 | [**Shipping from China to Chancay Port, Peru: 2026 COSCO FCL Rates — Chancay vs. Callao**](./guides/china-to-chancay-peru-fcl-rates-2026.md) | Chancay megaport deep-dive — COSCO FAK parity with Callao, ~23-day direct service, Matarani/Paita premium, South Asia–Chancay rates | **2026-09-21** |
