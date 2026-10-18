@@ -93,7 +93,11 @@ COSCO's guideline tariff does not quote fixed transit days per lane. Typical Asi
 
 ## LCL Rates
 
-**No LCL rates are present in the current COSCO WCSA guideline tariff for Ecuador.** The `lcl_rates` table contains no Guayaquil, Posorja or Ecuador rows for the 10.22–10.28 period. For LCL shipments, shippers should request a separate consolidation quote or use the live quote link below.
+**No LCL rates are present in the current COSCO WCSA guideline tariff for Ecuador.** The `lcl_rates` table contains no Guayaquil, Posorja or Ecuador rows for the 10.22–10.28 period.
+
+For market context, third-party forwarder quotes for China → Ecuador LCL in late 2026 commonly range **USD 105–220 per CBM** depending on origin, volume bracket and consolidation point, with a typical minimum charge of **1 CBM or 1,000 kg**. These are market-sourced reference ranges, not COSCO tariff data.
+
+For LCL shipments, shippers should request a separate consolidation quote or use the live quote link below.
 
 ---
 
@@ -124,10 +128,24 @@ The increase is a flat **+USD 700** across all origin tiers, suggesting a genera
 ## Ecuador Customs & Import Notes
 
 - **Import duty:** Ecuador applies the **Andean Common External Tariff (Arancel Externo Común, AEC)**. Rates vary by HS code; many consumer/industrial goods fall between **0% and 15%**. Verify with your customs broker.
-- **VAT (IVA):** Standard rate is **12%** on CIF value + duty + other taxable charges.
+- **VAT (IVA):** Standard rate is **15%** on CIF value + duty + other taxable charges (adjusted from 12% in 2026).
+- **FODINFA:** A **0.5% Child Development Fund tax** is applied to almost all imports on the CIF value.
+- **ICE:** Special Consumption Tax applies only to luxury goods, alcohol and certain vehicles.
 - **SENAE / Aduana:** Ecuador's customs authority requires a **RUC (Registro Único de Contribuyentes)** for the consignee and supports the **VUCE (Ventanilla Única de Comercio Exterior)** for electronic declarations.
-- **China–Ecuador FTA:** A **bilateral free-trade agreement between China and Ecuador entered into force on 1 May 2024**, phasing out tariffs on a wide range of products. Exporters should request a **Certificate of Origin (CO)** under the agreement to claim preferential rates.
-- **Destination charges:** THC, documentation, customs clearance and inland trucking are not included in the ocean rates above. Budget **USD 400–900** for port handling and customs brokerage at Guayaquil/Posorja, plus inland trucking to Quito or other cities.
+- **China–Ecuador FTA:** A **bilateral free-trade agreement between China and Ecuador entered into force on 1 May 2024**, phasing out tariffs on a wide range of products. Exporters should request a **Certificate of Origin (CO)** under the agreement to claim preferential rates. The DAI declaration must explicitly claim the preferential tariff code; otherwise the benefit is lost.
+- **INEN certification:** Textiles, shoes, electronics and other regulated products may require **INEN (Instituto Ecuatoriano de Normalización)** conformity certification before import. Check with your broker before shipping.
+- **Destination charges:** Ocean rates above do not include THC, documentation, customs clearance or inland trucking. Third-party market references for additional charges are:
+
+| Charge Category | Typical Range (USD) | Notes |
+|---|---|---|
+| Origin THC & handling | 120 – 260 per container | Port of loading charges |
+| Documentation / B/L fee | 80 – 200 per shipment | Forwarder/admin fee |
+| Destination THC (Guayaquil/Posorja) | 180 – 360 per container | Port of discharge handling |
+| Ecuador customs brokerage (DAI filing) | 120 – 280 per declaration | SENAE/ECUAPASS filing |
+| Trucking Guayaquil/Posorja → Quito | 450 – 900 per container | Depends on weight/volume |
+| Trucking to Cuenca / Ambato / Manta | 300 – 750 per container | Regional inland estimate |
+
+*Destination-charge ranges are third-party market references, not part of the COSCO ocean tariff.*
 
 ---
 
@@ -156,6 +174,12 @@ A: Yes, the **China–Ecuador FTA entered into force on 1 May 2024** and provide
 
 **Q8: Are THC, documentation and customs included in the rates above?**
 A: **No.** Published rates are ocean freight only. Destination THC, documentation, customs clearance and inland trucking are additional — typically USD 400–900 at the port plus trucking.
+
+**Q9: What is FODINFA and how much does it add?**
+A: **FODINFA** is Ecuador's Child Development Fund tax, applied at **0.5% of CIF value** on most imports. On a USD 30,000 CIF shipment it adds roughly USD 150.
+
+**Q10: Do my products need INEN certification?**
+A: Regulated categories such as **textiles, shoes, electronics, toys and some household appliances** often require **INEN** conformity certification before customs release. Check with your Ecuadorian customs broker and supplier before shipping to avoid port storage charges.
 
 ---
 
@@ -255,6 +279,22 @@ For live rates and instant quotes, visit:
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "28–35 days port-to-port via the Panama Canal. Direct calls or Posorja-first rotations can be 1–3 days shorter than Guayaquil transhipment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is FODINFA and how much does it add?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FODINFA is Ecuador's Child Development Fund tax, applied at 0.5% of CIF value on most imports. On a USD 30,000 CIF shipment it adds roughly USD 150."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do my products need INEN certification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regulated categories such as textiles, shoes, electronics, toys and some household appliances often require INEN conformity certification before customs release. Check with your Ecuadorian customs broker and supplier before shipping to avoid port storage charges."
       }
     }
   ]
