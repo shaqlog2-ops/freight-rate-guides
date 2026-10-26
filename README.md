@@ -15,6 +15,7 @@ This repository publishes real, bookable freight rate guides for major shipping 
 |-------|------|-------------|---------|
 | [Container Shipping from China to Ecuador: 2026 COSCO FCL Rates — Guayaquil vs. Posorja (Oct 22–28 Tariff)](./guides/china-to-ecuador-guayaquil-posorja-fcl-rates-2026.md) | FCL | USD 5,860 – 6,030 per container | 2026-10-19 |
 | [Container Shipping from China to Chile: 2026 COSCO FCL Rates — San Antonio vs. Valparaíso vs. Northern Ports (Oct 15–21 Tariff)](./guides/china-to-chile-san-antonio-valparaiso-fcl-rates-2026.md) | FCL | USD 5,160 – 5,330 per container | 2026-10-12 |
+| [Container Shipping from China to Panama: 2026 COSCO FCL Rates — Colón Free Zone vs. Manzanillo, PA (Oct 22–31 Tariff)](./guides/china-to-panama-colon-free-zone-fcl-rates-2026.md) | FCL | USD 7,320 – 7,560 per container | 2026-10-26 |
 | [Container Shipping from China to Cartagena, Colombia: 2026 COSCO FCL Freight Rates & Colombia Customs Guide](./guides/china-to-cartagena-colombia-fcl-rates-2026.md) | FCL | USD 8,400 – 8,600 per container | 2026-10-05 |
 | [Shipping from China to Chancay Port, Peru: 2026 COSCO FCL Rates — Chancay vs. Callao](./guides/china-to-chancay-peru-fcl-rates-2026.md) | FCL | USD 5,500 – 5,800 per container | 2026-09-21 |
 | [Container Shipping from China to Santos, Brazil: 2026 COSCO FCL Freight Rates & Custo Brasil Cost Guide](./guides/china-to-santos-brazil-fcl-rates-2026.md) | FCL | USD 9,950 – 10,200 per container | 2026-09-14 |
