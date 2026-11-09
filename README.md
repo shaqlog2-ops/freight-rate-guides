@@ -13,6 +13,7 @@ This repository publishes real, bookable freight rate guides for major shipping 
 
 | Route | Mode | Latest Rate | Updated |
 |-------|------|-------------|---------|
+| [Shipping from China to Mexico 2026: Pacific vs. Gulf Coast FCL Rates — Manzanillo USD 5,100 vs. Veracruz USD 8,180 (40GP, Nov 5–14 Tariff)](./guides/china-to-mexico-pacific-vs-gulf-fcl-rates-2026.md) | FCL | USD 5,100 – 8,240 per container (two-coast) | 2026-11-09 |
 | [Container Shipping from China to Mexico's Gulf Coast: 2026 COSCO FCL Rates — Veracruz vs. Altamira (Nov 8–14 Tariff)](./guides/china-to-mexico-gulf-veracruz-altamira-fcl-rates-2026.md) | FCL | USD 8,180 – 8,240 per container | 2026-11-02 |
 | [Container Shipping from China to Ecuador: 2026 COSCO FCL Rates — Guayaquil vs. Posorja (Oct 22–28 Tariff)](./guides/china-to-ecuador-guayaquil-posorja-fcl-rates-2026.md) | FCL | USD 5,860 – 6,030 per container | 2026-10-19 |
 | [Container Shipping from China to Chile: 2026 COSCO FCL Rates — San Antonio vs. Valparaíso vs. Northern Ports (Oct 15–21 Tariff)](./guides/china-to-chile-san-antonio-valparaiso-fcl-rates-2026.md) | FCL | USD 5,160 – 5,330 per container | 2026-10-12 |
